@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+.idea/
+*.db
+__pycache__/
+data/job_market.db
+data/job_market_final.db

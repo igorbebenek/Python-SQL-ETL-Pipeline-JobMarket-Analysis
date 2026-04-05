@@ -1,0 +1,3279 @@
+id,city,country
+1,"Kingsway, Derby",gb
+2,"Ampney Crucis, Cirencester",gb
+3,"Middleton Stoney, Bicester",gb
+4,"Eastcote, Pinner",gb
+5,"Newnham, Daventry",gb
+6,"Southmead, Bristol",gb
+7,"Chesterton, Cambridge",gb
+8,"Kingston, Milton Keynes",gb
+9,"Sydenham, Belfast",gb
+10,"Shortlands, Bromley",gb
+11,"Shaldon, Teignmouth",gb
+12,"Oxford Circus, Central London",gb
+13,"Thorney, Peterborough",gb
+14,"Well End, Borehamwood",gb
+15,"Walkern, Hertfordshire",gb
+16,"Lower Bourne, Farnham",gb
+17,"Woodside, Luton",gb
+18,"Grove, Leighton Buzzard",gb
+19,"Malkins Bank, Sandbach",gb
+20,"Delapre, Northampton",gb
+21,"Elstow, Bedford",gb
+22,"Mytchett, Camberley",gb
+23,"Cadley, Marlborough",gb
+24,"Great Hallingbury, Bishop's Stortford",gb
+25,"Lugg Bridge, Hereford",gb
+26,"Dukinfield, Greater Manchester",gb
+27,"West Camel, Yeovil",gb
+28,"Styal, Wilmslow",gb
+29,"Charlton Kings, Cheltenham",gb
+30,"Shadwell, East London",gb
+31,"Ladywood, Birmingham",gb
+32,"Denner Hill, Great Missenden",gb
+33,UK,gb
+34,"Wakefield, West Yorkshire",gb
+35,"Charlton, Andover",gb
+36,"Catterlen, Penrith",gb
+37,"Kensington, Liverpool",gb
+38,"Hatch Warren, Basingstoke",gb
+39,"Stanley, Liverpool",gb
+40,"Altham West, Accrington",gb
+41,"Lower Batson, Salcombe",gb
+42,"Great Ellingham, Attleborough",gb
+43,"Claygate, Esher",gb
+44,"Hildenborough, Tonbridge",gb
+45,"Broadbottom, Hyde",gb
+46,"Morden, South West London",gb
+47,"Orbiston, Bellshill",gb
+48,"Mitcham Junction, Mitcham",gb
+49,"Rottingdean, Brighton",gb
+50,"Marks Corner, Newport",gb
+51,"New Cross, South East London",gb
+52,"Alexandria, West Dunbartonshire",gb
+53,"Prenton, Merseyside",gb
+54,"The Hill, Millom",gb
+55,"Chirton, North Shields",gb
+56,"Berrow, Burnham-On-Sea",gb
+57,"Flookburgh, Grange-Over-Sands",gb
+58,"Marston Gate, Stafford",gb
+59,"Stratford, East London",gb
+60,"Alcombe, Minehead",gb
+61,"Chessington, South West London",gb
+62,"Saddlescombe, Brighton",gb
+63,"Brimington, Chesterfield",gb
+64,"Stonecroft, Barnetby",gb
+65,"Dogdean, Wimborne",gb
+66,"Reddish, Stockport",gb
+67,"Portadown, Craigavon",gb
+68,"Felpham, Bognor Regis",gb
+69,"Stockingford, Nuneaton",gb
+70,"Great Bromley, Colchester",gb
+71,"Elderslie, Johnstone",gb
+72,"Smithfield, Kirklinton",gb
+73,"Glenboig, Coatbridge",gb
+74,"Throsk, Stirling",gb
+75,"Holyport, Maidenhead",gb
+76,"Humberstone, Leicester",gb
+77,"Rosebank, Carluke",gb
+78,"Wilstone Green, Tring",gb
+79,"Birkenshaw, Larkhall",gb
+80,"Springside, Irvine",gb
+81,"Winterborne Stickland, Blandford Forum",gb
+82,"Seaview, Isle Of Wight",gb
+83,"Dundee, Scotland",gb
+84,"Burton, Christchurch",gb
+85,"South Heighton, Newhaven",gb
+86,"Worle, Weston-Super-Mare",gb
+87,"Tiverton Junction, Cullompton",gb
+88,"Ramsey St. Marys, Ramsey",gb
+89,"Far Arnside, Carnforth",gb
+90,"Bushey Heath, Bushey",gb
+91,"Nether Worton, Chipping Norton",gb
+92,"Oakfield, Ryde",gb
+93,"South Croydon, South East London",gb
+94,"Farringdon, Central London",gb
+95,"Andover, Hampshire",gb
+96,"Ford, Lochgilphead",gb
+97,"Walton, Chesterfield",gb
+98,"Caputh, Perth",gb
+99,"Nettleton, Market Rasen",gb
+100,"Langford, Cullompton",gb
+101,"Gourock, Inverclyde",gb
+102,"Kingsfold, Horsham",gb
+103,"Canwick, Lincoln",gb
+104,"Nine Ashes, Ingatestone",gb
+105,"Chapels, Kirkby-In-Furness",gb
+106,"Colliston, Arbroath",gb
+107,"Low Hill, Liverpool",gb
+108,"Hapton, Burnley",gb
+109,"Amport, Andover",gb
+110,"The Trafford Centre, Manchester",gb
+111,"Tredington, Tewkesbury",gb
+112,"Swinley, Wigan",gb
+113,"Oaklands, St. Albans",gb
+114,"Haugh, Inverness",gb
+115,"Gendros, Swansea",gb
+116,"Cadham, Glenrothes",gb
+117,"Inshes, Inverness",gb
+118,"Killard, Downpatrick",gb
+119,"French Walls, Smethwick",gb
+120,"Stevenage, Hertfordshire",gb
+121,"Little Oakley, Corby",gb
+122,"Wollaston, Wellingborough",gb
+123,"Southsea, Hampshire",gb
+124,"Barkingside, Ilford",gb
+125,"Castle Hills, Northallerton",gb
+126,"Crowfield, Brackley",gb
+127,"Penwortham, Preston",gb
+128,"Easton, Bristol",gb
+129,"Barrow-In-Furness, Cumbria",gb
+130,"Ash Vale, Aldershot",gb
+131,"Netherfield, Nottingham",gb
+132,"Benham Hill, Thatcham",gb
+133,"Colchester, Essex",gb
+134,"Edinburgh City Centre, Edinburgh",gb
+135,"Penenden Heath, Maidstone",gb
+136,"Newington, South East London",gb
+137,"Waltham On The Wolds, Melton Mowbray",gb
+138,"Handbridge, Chester",gb
+139,"Heathrow, Hounslow",gb
+140,"Newton Solney, Burton-On-Trent",gb
+141,"Oxford, Oxfordshire",gb
+142,"Torry, Aberdeen",gb
+143,"Kirkintilloch, East Dunbartonshire",gb
+144,"Buttons, Wadhurst",gb
+145,"Dorchester, Dorset",gb
+146,"East London, London",gb
+147,"Willington, Crook",gb
+148,"South Milford, Leeds",gb
+149,"Conwy, Conwy County",gb
+150,"Chalvey, Slough",gb
+151,"Chigwell, Essex",gb
+152,"Moorgate, Lancaster",gb
+153,"Northern Ireland, UK",gb
+154,"Nottingham, Nottinghamshire",gb
+155,"Poyntzfield, Dingwall",gb
+156,"Newland, Malvern",gb
+157,"Harpenden, Hertfordshire",gb
+158,"Holcot, Northampton",gb
+159,"St. Fort, Wormit",gb
+160,"Heysham, Morecambe",gb
+161,"Hyde Park, West London",gb
+162,"Long Ditton, Surbiton",gb
+163,"Newport, Wales",gb
+164,"Barnehurst, Bexleyheath",gb
+165,"Offham, Lewes",gb
+166,"Milnthorpe, Wakefield",gb
+167,"Newton, Frodsham",gb
+168,"Warrington, Cheshire",gb
+169,"Port Elphinstone, Inverurie",gb
+170,"Sandtoft, Doncaster",gb
+171,"Hall Green, Birmingham",gb
+172,"Streatham Park, South West London",gb
+173,"Sheffield, South Yorkshire",gb
+174,"Corbridge, Northumberland",gb
+175,"Lillington, Leamington Spa",gb
+176,"South Ayrshire, Scotland",gb
+177,"Glencraig, Lochgelly",gb
+178,"Glasgow, Scotland",gb
+179,"Woking, Surrey",gb
+180,"Lislea, Newry",gb
+181,"Knuston, Wellingborough",gb
+182,"Hartwood, Shotts",gb
+183,"Rivenhall, Witham",gb
+184,"Barnes, South West London",gb
+185,"Chineham, Basingstoke",gb
+186,"Dunham Town, Altrincham",gb
+187,"Abbotts Barton, Winchester",gb
+188,"Crownhill, Milton Keynes",gb
+189,"Snarehill, Thetford",gb
+190,"Woodston, Peterborough",gb
+191,"New Bilton, Rugby",gb
+192,"Askam-In-Furness, Cumbria",gb
+193,"Canary Wharf, East London",gb
+194,"Nye, Hewish",gb
+195,"Annandale, Kilmarnock",gb
+196,"Whiteinch, Glasgow",gb
+197,"Blackpool Airport, Blackpool",gb
+198,"Manchester, Greater Manchester",gb
+199,"South Wootton, King's Lynn",gb
+200,"Denwick, Alnwick",gb
+201,"Hilperton, Trowbridge",gb
+202,"Coventry, West Midlands",gb
+203,"Taunton, Somerset",gb
+204,"Wooburn Industrial Park, Wooburn Green",gb
+205,"London, UK",gb
+206,"Belfast, Northern Ireland",gb
+207,"Woodside Estate, Dunstable",gb
+208,"Abingdon, Oxfordshire",gb
+209,"Sandford, Strathaven",gb
+210,"Farnborough, Hampshire",gb
+211,"Egerton, Bolton",gb
+212,"Waterglade Industrial Park, West Thurrock",gb
+213,"Gipsyville, Hull",gb
+214,"Benenden, Cranbrook",gb
+215,"Crawley, West Sussex",gb
+216,"Essex, Eastern England",gb
+217,"Cranford, Hounslow",gb
+218,"Long Lawford, Rugby",gb
+219,"Whitehaven, Cumbria",gb
+220,"Cheltenham, Gloucestershire",gb
+221,"Ocean Village, Southampton",gb
+222,"Wimbledon, South West London",gb
+223,"The City, Central London",gb
+224,"Edinburgh, Scotland",gb
+225,"Callington, Cornwall",gb
+226,"Cliddesden, Basingstoke",gb
+227,"Eton, Windsor",gb
+228,"Bellingham, South East London",gb
+229,"Gilmorton, Lutterworth",gb
+230,"Hayes, Bromley",gb
+231,"Cricklewood, North West London",gb
+232,"Milton Keynes, Buckinghamshire",gb
+233,"Omagh, Northern Ireland",gb
+234,"Birmingham, West Midlands",gb
+235,"Easton Neston, Towcester",gb
+236,"Dunnikier Park, Kirkcaldy",gb
+237,"Liskeard, Cornwall",gb
+238,"Glascoed, Pontypool",gb
+239,"Erith, Kent",gb
+240,"Little Kimble, Aylesbury",gb
+241,"Petton, Burlton",gb
+242,"Moss Side, Manchester",gb
+243,"Beaconsfield, Buckinghamshire",gb
+244,"Langbank, Port Glasgow",gb
+245,"Manchester Science Park, Manchester",gb
+246,"Milton, Brampton",gb
+247,"Monxton, Andover",gb
+248,"Blackheath, South East London",gb
+249,"Hartlepool, County Durham",gb
+250,"Strand, Central London",gb
+251,"Bogend, Symington",gb
+252,"Mayfair, West London",gb
+253,"Trusthorpe, Mablethorpe",gb
+254,"Great Yarmouth, Norfolk",gb
+255,"Norwich, Norfolk",gb
+256,"Beddington, Croydon",gb
+257,"Eastfield, Scarborough",gb
+258,"Chelmsford, Essex",gb
+259,"Firswood, Manchester",gb
+260,"Ilketshall St. John, Bungay",gb
+261,"Warsop Vale, Mansfield",gb
+262,"Brae, Shetland Islands",gb
+263,"Maidstone, Kent",gb
+264,"Weymouth, Dorset",gb
+265,"Earley, Reading",gb
+266,"St. Michael Penkivel, Truro",gb
+267,"Glasgow City Centre, Glasgow",gb
+268,"Northampton, Northamptonshire",gb
+269,"Portree, Highland",gb
+270,"Paisley, Renfrewshire",gb
+271,"Hillhead, Glasgow City Centre",gb
+272,"Ferniegair, Hamilton",gb
+273,"Melton Mowbray, Leicestershire",gb
+274,"Clapham Common, South West London",gb
+275,"Harlow, Essex",gb
+276,"Salem, Morriston",gb
+277,"Tarring, Worthing",gb
+278,"Midgham, Reading",gb
+279,"Northaw, Potters Bar",gb
+280,"Teaninich, Alness",gb
+281,"Linwood, Paisley",gb
+282,"Little Laver, Ongar",gb
+283,"Stoke Newington, North London",gb
+284,"Durham, County Durham",gb
+285,"Hanworth, Feltham",gb
+286,"Rusholme, Manchester",gb
+287,"Southampton, Hampshire",gb
+288,"West Lutton, Malton",gb
+289,"Dean Clough Industrial Park, Halifax",gb
+290,"Guys Cliffe, Warwick",gb
+291,"Bristol, South West England",gb
+292,"Carleton, Pontefract",gb
+293,"Roath, Cardiff",gb
+294,"Uddingston, South Lanarkshire",gb
+295,"Leicester, Leicestershire",gb
+296,"Brading, Sandown",gb
+297,"South East England, UK",gb
+298,"Gloucester, Gloucestershire",gb
+299,"Matford, Exeter",gb
+300,"Lower Sydenham, South East London",gb
+301,"Cornwall, South West England",gb
+302,"Worsbrough Common, Barnsley",gb
+303,"Cuttifords Door, Chard",gb
+304,"Gloucestershire, South West England",gb
+305,"Camden, North West London",gb
+306,"Bensham, Gateshead",gb
+307,"Mosley Common, Worsley",gb
+308,"St. Johns, Woking",gb
+309,"Belgrave, Chester",gb
+310,"Aldersbrook, East London",gb
+311,"Deeside, Flintshire",gb
+312,"Derby, Derbyshire",gb
+313,"Emsworth, Hampshire",gb
+314,"Chadbury, Evesham",gb
+315,"Sleaford, Lincolnshire",gb
+316,"Chorley, Lancashire",gb
+317,"Stuntney, Ely",gb
+318,"Garsington, Oxford",gb
+319,"Langford, Biggleswade",gb
+320,"Worcestershire, West Midlands",gb
+321,"Monmouthshire, Wales",gb
+322,"Doncaster, South Yorkshire",gb
+323,"North Lincolnshire, Yorkshire And The Humber",gb
+324,"Bystock, Exmouth",gb
+325,"Isle Brewers, Taunton",gb
+326,"Solihull, West Midlands",gb
+327,"Norfolk, Eastern England",gb
+328,"Oldham, Greater Manchester",gb
+329,"Feltham, London",gb
+330,"Wandsworth, South West London",gb
+331,"Bath, Bath & N E Somerset",gb
+332,"Blackpool, Lancashire",gb
+333,"Bath & N E Somerset, South West England",gb
+334,"Egerton, Malpas",gb
+335,"Digswell, Welwyn",gb
+336,"Rutland, East Midlands",gb
+337,"Wykin, Hinckley",gb
+338,"Fieldhead Business Centre, Bradford",gb
+339,"Greenock, Inverclyde",gb
+340,"Rickmansworth, Hertfordshire",gb
+341,"Gwynedd, Wales",gb
+342,"Enfield, London",gb
+343,"Milton Regis, Sittingbourne",gb
+344,"Normanton, West Yorkshire",gb
+345,"Penrith, Cumbria",gb
+346,"Hertford, Hertfordshire",gb
+347,"Birkenhead, Merseyside",gb
+348,"Newbury, West Berkshire",gb
+349,"Dudley, West Midlands",gb
+350,"Ashford, Kent",gb
+351,"Peckham, South East London",gb
+352,"Sleight, Devizes",gb
+353,"Hackney, East London",gb
+354,"Windsor, Windsor & Maidenhead",gb
+355,"Harrogate, North Yorkshire",gb
+356,"Wolverhampton, West Midlands",gb
+357,"Oswestry, Shropshire",gb
+358,"Ingatestone, Essex",gb
+359,"Abergele, Conwy County",gb
+360,"Ellesmere Port, Cheshire",gb
+361,"Swindon, Wiltshire",gb
+362,"Warwick, Warwickshire",gb
+363,"Chichester, West Sussex",gb
+364,"Preston, Lancashire",gb
+365,"Barnet, Hertfordshire",gb
+366,"Cardiff, Cardiff County",gb
+367,"Newquay, Cornwall",gb
+368,"Monument, Central London",gb
+369,"Cambridgeshire, Eastern England",gb
+370,"Chertsey, Surrey",gb
+371,"Middlesbrough, North Yorkshire",gb
+372,"Truro, Cornwall",gb
+373,"Exeter, Devon",gb
+374,"Weston-Super-Mare, North Somerset",gb
+375,"Evesham, Worcestershire",gb
+376,"Hinckley, Leicestershire",gb
+377,"Deal, Kent",gb
+378,"Leighton Buzzard, Bedfordshire",gb
+379,"Blashford, Ringwood",gb
+380,"Englefield, Reading",gb
+381,"Folkestone, Kent",gb
+382,"Cheadle, Greater Manchester",gb
+383,"Stockwell, South West London",gb
+384,"Huntingdon, Cambridgeshire",gb
+385,"Holbeck, Leeds",gb
+386,"Witham Town, Boston",gb
+387,"Caversham, Reading",gb
+388,"Calderbank, Airdrie",gb
+389,"Jersey, Channel Isles",gb
+390,"Corby, Northamptonshire",gb
+391,"Whiteley Village, Hersham",gb
+392,"Newry & Mourne, Northern Ireland",gb
+393,"Springboig, Glasgow",gb
+394,"Powys, Wales",gb
+395,"Bygrave, Baldock",gb
+396,"Oxfordshire, South East England",gb
+397,"County Stirling, Scotland",gb
+398,"Angus, Scotland",gb
+399,"Thatcham, West Berkshire",gb
+400,"Lisburn, Northern Ireland",gb
+401,"Darlington, County Durham",gb
+402,"Fife, Scotland",gb
+403,"Gravesend, Kent",gb
+404,"Caerphilly, Caerphilly County",gb
+405,"Long Furlong, Tetbury",gb
+406,"Harrow, London",gb
+407,"West Bromwich, West Midlands",gb
+408,"Allington, Maidstone",gb
+409,"Basingstoke, Hampshire",gb
+410,"Sevenoaks, Kent",gb
+411,"Ballynahinch, County Down",gb
+412,"Ashton-Under-Lyne, Greater Manchester",gb
+413,"City, Cowbridge",gb
+414,"Kendal, Cumbria",gb
+415,"St. Albans, Hertfordshire",gb
+416,"Plymouth, South West England",gb
+417,"Carlisle, Cumbria",gb
+418,"Knutsford, Cheshire",gb
+419,"Artington, Guildford",gb
+420,"Parkstone, Poole",gb
+421,"Moray, Scotland",gb
+422,"Shropshire, West Midlands",gb
+423,"Nottinghamshire, East Midlands",gb
+424,"Wokingham, Berkshire",gb
+425,"Peterborough, Eastern England",gb
+426,"Dentons Green, St. Helens",gb
+427,"Aggborough, Kidderminster",gb
+428,"Wigan, Greater Manchester",gb
+429,"Spalding, Lincolnshire",gb
+430,"Harras Moor, Whitehaven",gb
+431,"Brighton, East Sussex",gb
+432,"Southwark, South East London",gb
+433,"Braintree, Essex",gb
+434,"Glasshoughton, Castleford",gb
+435,"Richmond, West London",gb
+436,"West Yorkshire, Yorkshire And The Humber",gb
+437,"High Wycombe, Buckinghamshire",gb
+438,"Winchester, Hampshire",gb
+439,"Blandford Forum, Dorset",gb
+440,"Grangetown, Cardiff",gb
+441,"Aylesbury, Buckinghamshire",gb
+442,"Monktonhall, Musselburgh",gb
+443,"Hatfield, Hertfordshire",gb
+444,"North Ayrshire, Scotland",gb
+445,"Bermuda Park, Nuneaton",gb
+446,"Islington, North London",gb
+447,"Lincoln, Lincolnshire",gb
+448,"Twickenham, London",gb
+449,"East Grinstead, West Sussex",gb
+450,"Staines, Surrey",gb
+451,"Turnpike Lane, North London",gb
+452,"Northfleet Green, Gravesend",gb
+453,"Cardiff County, Wales",gb
+454,"Highland, Scotland",gb
+455,"Kilbarchan, Johnstone",gb
+456,"Borehamwood, Hertfordshire",gb
+457,"Carisbrooke, Newport",gb
+458,"Kettering, Northamptonshire",gb
+459,"Cambridge, Cambridgeshire",gb
+460,"Liverpool, Merseyside",gb
+461,"Derry, Northern Ireland",gb
+462,"Westminster, South West London",gb
+463,"West Sussex, South East England",gb
+464,"Fareham, Hampshire",gb
+465,"Old Aberdeen, Aberdeen",gb
+466,"Sittingbourne, Kent",gb
+467,"Dover, Kent",gb
+468,"County Tyrone, Northern Ireland",gb
+469,"Keighley, West Yorkshire",gb
+470,"Ipsley, Redditch",gb
+471,"Stone, Staffordshire",gb
+472,"Coniston, Hull",gb
+473,"Grantham, Lincolnshire",gb
+474,"Gargrave, Skipton",gb
+475,"St. Austell, Cornwall",gb
+476,"Macclesfield, Cheshire",gb
+477,"Tanfield Lea, Stanley",gb
+478,"Wytham, Oxford",gb
+479,"Berwick, Polegate",gb
+480,"Clitheroe, Lancashire",gb
+481,"Altrincham, Greater Manchester",gb
+482,"South West London, London",gb
+483,"Bognor Regis, West Sussex",gb
+484,"County Down, Northern Ireland",gb
+485,"Lincolnshire, East Midlands",gb
+486,"Sunderland, Tyne & Wear",gb
+487,"Wirral, Cheshire",gb
+488,"Dorset, South West England",gb
+489,"Chapeltown, Sheffield",gb
+490,"Wellingborough, Northamptonshire",gb
+491,"Surrey, South East England",gb
+492,"Langley, Liss",gb
+493,"Banbury, Oxfordshire",gb
+494,"Pillaton, Saltash",gb
+495,"Bromsgrove, Worcestershire",gb
+496,"South West England, UK",gb
+497,"Aberdeen, Aberdeenshire",gb
+498,"Loughborough, Leicestershire",gb
+499,"Hilsea, Portsmouth",gb
+500,"Hadleigh, Ipswich",gb
+501,"Caister-On-Sea, Great Yarmouth",gb
+502,"Pontefract, West Yorkshire",gb
+503,"Hounslow, London",gb
+504,"Irlams O' Th' Height, Salford",gb
+505,"Stratford-Upon-Avon, Warwickshire",gb
+506,"Roman Bank, Skegness",gb
+507,"Perth & Kinross, Scotland",gb
+508,"Southend-On-Sea, Essex",gb
+509,"Scunthorpe, North Lincolnshire",gb
+510,"Perth, Perth & Kinross",gb
+511,"Murroes, Broughty Ferry",gb
+512,"St. Thomas, Exeter",gb
+513,"Wymington, Rushden",gb
+514,"Carmarthen, Carmarthenshire",gb
+515,"Hull, East Riding Of Yorkshire",gb
+516,"Eastleigh, Hampshire",gb
+517,"Swansea, Wales",gb
+518,"Conwy County, Wales",gb
+519,"Hulme, Manchester",gb
+520,"Buckingham, Buckinghamshire",gb
+521,"Palmers Green, North London",gb
+522,"Claremont Park, Esher",gb
+523,"Gillingham, Kent",gb
+524,"Flintshire, Wales",gb
+525,"North Yorkshire, Yorkshire And The Humber",gb
+526,"Northamptonshire, East Midlands",gb
+527,"East Sussex, South East England",gb
+528,"Wallingford, Oxfordshire",gb
+529,"King's Lynn, Norfolk",gb
+530,"South Yorkshire, Yorkshire And The Humber",gb
+531,"Staffordshire, West Midlands",gb
+532,"Theatreland, Central London",gb
+533,"Hillingdon, Uxbridge",gb
+534,"Falkirk County, Scotland",gb
+535,"Havant, Hampshire",gb
+536,"Letchworth Garden City, Hertfordshire",gb
+537,"Poole, Dorset",gb
+538,"Barkston Ash, Tadcaster",gb
+539,"Faringdon, Oxfordshire",gb
+540,"Dumfries & Galloway, Scotland",gb
+541,"Cramlington, Northumberland",gb
+542,"Newcastle Upon Tyne, Tyne & Wear",gb
+543,"Louth, Lincolnshire",gb
+544,"Stroud, Gloucestershire",gb
+545,"Skipton, North Yorkshire",gb
+546,"Livingston, West Lothian",gb
+547,"Epperstone, Nottingham",gb
+548,"Neath Port Talbot, Wales",gb
+549,"Newtonmore, Highland",gb
+550,"Edgware, North West London",gb
+551,"Morpeth, Northumberland",gb
+552,"Stirling, County Stirling",gb
+553,"Lancing, West Sussex",gb
+554,"Workington, Cumbria",gb
+555,"Balsall Heath, Birmingham",gb
+556,"Salisbury, Wiltshire",gb
+557,"Groomsport, Bangor",gb
+558,"East Dunbartonshire, Scotland",gb
+559,"Friern Barnet, North London",gb
+560,"Sutton, London",gb
+561,"South East London, London",gb
+562,"Pennington, Lymington",gb
+563,"North East England, UK",gb
+564,"East Lothian, Scotland",gb
+565,"Tenterden, Kent",gb
+566,"Cheltenham Trade Park, Cheltenham",gb
+567,"North London, London",gb
+568,"Northfleet, Gravesend",gb
+569,"Exmouth, Devon",gb
+570,"Wythenshawe, Manchester",gb
+571,"Gaunts Earthcott, Almondsbury",gb
+572,"Skelmersdale, Lancashire",gb
+573,"Catrine, Mauchline",gb
+574,"Darwen, Lancashire",gb
+575,"Warwickshire, West Midlands",gb
+576,"North West London, London",gb
+577,"Thornaby, Stockton-On-Tees",gb
+578,"Methil, Leven",gb
+579,"West Lothian, Scotland",gb
+580,"Hammersmith, West London",gb
+581,"Blyth, Northumberland",gb
+582,"Basildon, Essex",gb
+583,"Chadwell Heath, Romford",gb
+584,"Crewe, Cheshire",gb
+585,"Worcester, Worcestershire",gb
+586,"Haslemere, Surrey",gb
+587,"Westerfield, Ipswich",gb
+588,"Hainford, Norwich",gb
+589,"Healey, Rochdale",gb
+590,"Hawkinge, Folkestone",gb
+591,"Holmes Chapel, Crewe",gb
+592,"Grimsby, North East Lincolnshire",gb
+593,"Ferncliffe, Bingley",gb
+594,"Minishant, Maybole",gb
+595,"Bingley, West Yorkshire",gb
+596,"County Antrim, Northern Ireland",gb
+597,"Hilderstone, Stone",gb
+598,"Llangennech, Llanelli",gb
+599,"Stirchley, Birmingham",gb
+600,"Motherwell, North Lanarkshire",gb
+601,"Bracknell, Berkshire",gb
+602,"Lancaster, Lancashire",gb
+603,"Pennygillam, Launceston",gb
+604,"Stamford, Lincolnshire",gb
+605,"Suffolk, Eastern England",gb
+606,"East Midlands, UK",gb
+607,"Shildon, County Durham",gb
+608,"Chequers Centre, Maidstone",gb
+609,"Salford, Greater Manchester",gb
+610,"Prior Fen, Ely",gb
+611,"Thame, Oxfordshire",gb
+612,"Belmont, Sutton",gb
+613,"Dorking, Surrey",gb
+614,"Finchley, North London",gb
+615,"Bedford, Bedfordshire",gb
+616,"Ruskington, Sleaford",gb
+617,"Lowfield Heath, Crawley",gb
+618,"Boston, Lincolnshire",gb
+619,"Tamworth, Staffordshire",gb
+620,"Stretford, Leominster",gb
+621,"Burnhaven, Peterhead",gb
+622,"Watford, Hertfordshire",gb
+623,"Chain Bridge, March",gb
+624,"Dolwen, Llanidloes",gb
+625,"Tewkesbury, Gloucestershire",gb
+626,"Ewell, Epsom",gb
+627,"Bethnal Green, East London",gb
+628,"West Odessa, Ector County",us
+629,"Country Park Acres, Guilford County",us
+630,"Lakewood Ranch, Manatee County",us
+631,"Butztown, Northampton County",us
+632,"Lakewood, Denver",us
+633,"Portsmouth, Rockingham County",us
+634,"Corning, Steuben County",us
+635,"Loughman, Polk County",us
+636,"Elizabethtown, Hardin County",us
+637,"Fern Park, Seminole County",us
+638,"Burlington, Ward County",us
+639,"Leesburg, Lee County",us
+640,"Philatelic, Alameda County",us
+641,US,us
+642,"Willernie, Washington County",us
+643,"Evans, Weld County",us
+644,"Impact, Taylor County",us
+645,"Estes Park, Larimer County",us
+646,"Gardena, Boise County",us
+647,"Auburn, King County",us
+648,"Thiensville, Ozaukee County",us
+649,"Belleville, Dane County",us
+650,"Grayson, Gwinnett County",us
+651,"Orchards, Clark County",us
+652,"Franklin, Delaware County",us
+653,"Nelson, Cherokee County",us
+654,"Oxford, Chester County",us
+655,"Lamesa, Dawson County",us
+656,"Copperfield, Houston",us
+657,"Sioux Falls, Minnehaha County",us
+658,"Madeira Beach, Pinellas County",us
+659,"Westminster, Adams County",us
+660,"Satsuma, Harris County",us
+661,"Taylorsville, Spencer County",us
+662,"Portales, Roosevelt County",us
+663,"Pensacola Beach, Santa Rosa County",us
+664,"New Albany, Floyd County",us
+665,"Millwood, Spokane County",us
+666,"San Angelo, Tom Green County",us
+667,"Mendota, Dakota County",us
+668,"Forest Park, Hamilton County",us
+669,"Flowery Branch, Hall County",us
+670,"Mcdonough, Henry County",us
+671,"Punta Gorda, Charlotte County",us
+672,"Plano, Collin County",us
+673,"Saint Louis, Saint Louis County",us
+674,"Fort Carson, El Paso County",us
+675,"Midtown, Roane County",us
+676,"Aurora Springs, Miller County",us
+677,"Universal City, Bexar County",us
+678,"Belle Plain, Pueblo County",us
+679,"Harrisburg, Cabarrus County",us
+680,"Islip, Suffolk County",us
+681,"Noblesville, Hamilton County",us
+682,"Boonville, Warrick County",us
+683,"Lake Tapawingo, Jackson County",us
+684,"Grain Valley, Jackson County",us
+685,"Kansas City, Jackson County",us
+686,"Quivira, Johnson County",us
+687,"Castle, Lawrence County",us
+688,"Brodhead, Rockcastle County",us
+689,"Newcastle, McClain County",us
+690,"Hempstead, Nassau County",us
+691,"Egypt Lake-Leto, Hillsborough County",us
+692,"Hollywood Park, Bexar County",us
+693,"Panther Creek, Montgomery County",us
+694,"Jersey Village, Harris County",us
+695,"Missoula, Missoula County",us
+696,"Andes, Delaware County",us
+697,"Southport, Fairfield County",us
+698,"East Clinton, Whiteside County",us
+699,"Holmes Beach, Manatee County",us
+700,"Lealman, Pinellas Couny",us
+701,"Belle Glade, Palm Beach County",us
+702,"Oakley, Summit County",us
+703,"Portland, Callaway County",us
+704,"Newton, Middlesex County",us
+705,"Bradley, Polk County",us
+706,"Astin, Robertson County",us
+707,"Willowbrook, Houston",us
+708,"Indian Rock, Upshur County",us
+709,"Conneaut Harbor, Ashtabula County",us
+710,"Desert Hot Springs, Riverside County",us
+711,"Nichols, Polk County",us
+712,"El Paso, El Paso County",us
+713,"Big Spring, Howard County",us
+714,"Steese, Fairbanks North Star",us
+715,"Fieldsboro, Burlington County",us
+716,"Alameda, Bernalillo County",us
+717,"Altamonte Springs, Seminole County",us
+718,"Orlando, Orange County",us
+719,"Loveland, Larimer County",us
+720,"Haskell, Muskogee County",us
+721,"Williams, Tulsa County",us
+722,"Fort Myers, Lee County",us
+723,"Senoia, Coweta County",us
+724,"Wheelock, Robertson County",us
+725,"Spencer, Marathon County",us
+726,"Lower Chichester, Delaware County",us
+727,"Aurora, Arapahoe County",us
+728,"Highlandtown, Baltimore",us
+729,"Holiday, Pasco County",us
+730,"Rosemary Beach, Walton County",us
+731,"Reunion, Osceola County",us
+732,"Keiser, Mississippi County",us
+733,"Stanton, Martin County",us
+734,"Hartsville, Darlington County",us
+735,"Round Rock, Williamson County",us
+736,"Fairview, Collin County",us
+737,"Jeanetta, Houston",us
+738,"Bowling Green, Warren County",us
+739,"Marysville, Snohomish County",us
+740,"Fort Wayne, Allen County",us
+741,"Hersey, Saint Croix County",us
+742,"Blue Mound, Tarrant County",us
+743,"Waggaman, Jefferson Parish",us
+744,"Glendale, Denver",us
+745,"Bridgeport, Montgomery County",us
+746,"Drexelbrook, Delaware County",us
+747,"Southglenn, Centennial",us
+748,"Sherman, Chautauqua County",us
+749,"Lake Elmo, Washington County",us
+750,"Ila, Madison County",us
+751,"San Ysidro, San Diego County",us
+752,"Phoenix, Jackson County",us
+753,"Provo, Utah County",us
+754,"Seminole, Pinellas County",us
+755,"Tavener, Wharton County",us
+756,"Lake Magdalene, Hillsborough County",us
+757,"East Flat Rock, Henderson County",us
+758,"Olathe, Johnson County",us
+759,"Tavares, Lake County",us
+760,"State Farm, Arlington County",us
+761,"Manville, Somerset County",us
+762,"Sandy Springs, Fulton County",us
+763,"Bee Cave, Travis County",us
+764,"Flatbush, Brooklyn",us
+765,"Dresden, Weakley County",us
+766,"Rossburg, Darke County",us
+767,"Bethel Springs, McNairy County",us
+768,"Oaklawn, Garland County",us
+769,"West Grove, Chester County",us
+770,"University Heights, Bronx",us
+771,"Mascotte, Lake County",us
+772,"Wallace, Duplin County",us
+773,"Marysville, Union County",us
+774,"Donahue, Scott County",us
+775,"Merced, Merced County",us
+776,"Memphis, DeSoto County",us
+777,"Falcon, El Paso County",us
+778,"Barton Hills, Washtenaw County",us
+779,"Dover, Hillsborough County",us
+780,"Venice, Sarasota County",us
+781,"Five Corners, Hudson County",us
+782,"Vestavia Hills, Jefferson County",us
+783,"El Jobean, Charlotte County",us
+784,"Brandon, Hillsborough County",us
+785,"New Home, Lynn County",us
+786,"Agoura Hills, Los Angeles County",us
+787,"Pennellville, Oswego County",us
+788,"Uvalde, Uvalde County",us
+789,"Milford, Oakland County",us
+790,"Findlay, Hancock County",us
+791,"Winter Garden, Orange County",us
+792,"Mobile, Mobile County",us
+793,"Thorndale, Chester County",us
+794,"Camanche, Clinton County",us
+795,"Englewood, Arapahoe County",us
+796,"West End, Dauphin County",us
+797,"West Somerset, Pulaski County",us
+798,"Hyde, Avoyelles Parish",us
+799,"Elizabethtown, Bartholomew County",us
+800,"Bleecker, Fulton County",us
+801,"Williamston, Anderson County",us
+802,"Mooresville, Morgan County",us
+803,"Wortham, Harrison County",us
+804,"Peak, Newberry County",us
+805,"East Lake-Orient Park, Hillsborough County",us
+806,"Surprise, Maricopa County",us
+807,"Meriden, Jefferson County",us
+808,"Chillicothe, Livingston County",us
+809,"Boardman, Mahoning County",us
+810,"Washington, Wilkes County",us
+811,"Farmersville, Montgomery County",us
+812,"Pittstown, Hunterdon County",us
+813,"Swatara Sta, Dauphin County",us
+814,"Old Sixth Ward, Houston",us
+815,"College Park, Fulton County",us
+816,"Las Cruces, Doña Ana County",us
+817,"Tignall, Wilkes County",us
+818,"Alex, Rapides Parish",us
+819,"Parker, Douglas County",us
+820,"Times Square, King County",us
+821,"Social Circle, Walton County",us
+822,"University Park, Dallas",us
+823,"Fitchburg, Dane County",us
+824,"Travis Heights, Travis County",us
+825,"Hicksville, Defiance County",us
+826,"Saint Leo, Pasco County",us
+827,"Lafayette, Lafayette Parish",us
+828,"Hialeah Lakes, Miami-Dade County",us
+829,"Dennis Mills, Livingston Parish",us
+830,"Apalachicola, Franklin County",us
+831,"Edina, Hennepin County",us
+832,"Kenton, Hardin County",us
+833,"Treasure Island, Pinellas County",us
+834,"Kamuela, Hawaii",us
+835,"Henefer, Summit County",us
+836,"Dewey, Washington County",us
+837,"Westover, Monongalia County",us
+838,"Gramling, Spartanburg County",us
+839,"Yonkers, Westchester County",us
+840,"Winchester, Scott County",us
+841,"Troy, Miami County",us
+842,"Manton, Wexford County",us
+843,"South Carolina, US",us
+844,"Miland, Sabine County",us
+845,"Lonetree, Douglas County",us
+846,"Hendersonville, Sumner County",us
+847,"Pantego, Tarrant County",us
+848,"Kamay, Wichita County",us
+849,"Englewood, Sarasota County",us
+850,"Tuckahoe, Henrico County",us
+851,"Dimondale, Eaton County",us
+852,"McCausland, Scott County",us
+853,"Clearwater, Pinellas County",us
+854,"Clifton, Mesa County",us
+855,"Woodway, McLennan County",us
+856,"Halifax, Halifax County",us
+857,"Scott Air Force Base, Saint Clair County",us
+858,"Brant Lake, Warren County",us
+859,"Eaton Park, Polk County",us
+860,"Curry, Sullivan County",us
+861,"Mount Olive, Macoupin County",us
+862,"Brunswick, Columbus County",us
+863,"Schaumburg, Cook County",us
+864,"Gleason, Weakley County",us
+865,"Kashmere Gardens, Houston",us
+866,"Houston, Harris County",us
+867,"Johns Pass, Pinellas County",us
+868,"Hickory Hill, Shelby County",us
+869,"Seaside, Monterey County",us
+870,"Carrollton, Greene County",us
+871,"Higley, Maricopa County",us
+872,"Great Falls, Cascade County",us
+873,"Rutherfordton, Rutherford County",us
+874,"Plymouth, Luzerne County",us
+875,"Pontiac, Livingston County",us
+876,"Benton, Saline County",us
+877,"Conroe, Montgomery County",us
+878,"Eva, Morgan County",us
+879,"Rosslyn, Arlington County",us
+880,"Pflugerville, Travis County",us
+881,"Stockbridge, Henry County",us
+882,"Auburndale, Polk County",us
+883,"Cypress Gardens, Polk County",us
+884,"Green Springs, Seneca County",us
+885,"East Grand Forks, Polk County",us
+886,"Stratmoor Hills, El Paso County",us
+887,"Sweetwater, Monroe County",us
+888,"Vermont, Los Angeles County",us
+889,"Balcones, Travis County",us
+890,"North Suburban, DuPage County",us
+891,"Grosse Pointe Park, Wayne County",us
+892,"South Shore, Greenup County",us
+893,"Brainerd, Crow Wing County",us
+894,"Cumberland Center, Cumberland County",us
+895,"Tequesta, Palm Beach County",us
+896,"Wildwood, Sumter County",us
+897,"Lincoln, Logan County",us
+898,"Brushton, Franklin County",us
+899,"Jago, DeSoto County",us
+900,"Cloverdale, Shelby County",us
+901,"Arlington, Baltimore",us
+902,"South Euclid, Cuyahoga County",us
+903,"Palmer, Matanuska-Susitna",us
+904,"El Centro, Imperial County",us
+905,"Athens, Athens County",us
+906,"Preuss, Los Angeles County",us
+907,"Philpot, Daviess County",us
+908,"Union Springs, Cayuga County",us
+909,"Rockville, Montgomery County",us
+910,"Mesquite, Clark County",us
+911,"Calvary, Grady County",us
+912,"Marianna, Jackson County",us
+913,"Topeka, Shawnee County",us
+914,"Eagle River, Anchorage",us
+915,"Clinton, Anderson County",us
+916,"Hammond, Lake County",us
+917,"Rochdale Village, Queens",us
+918,"Yukon, Canadian County",us
+919,"Winchester, Franklin County",us
+920,"Cascade, Kent County",us
+921,"Awendaw, Charleston County",us
+922,"Elizabeth, Elbert County",us
+923,"Smithville, Bastrop County",us
+924,"Lauderhill, Broward County",us
+925,"Smyrna, Rutherford County",us
+926,"Greenwood, Greenwood County",us
+927,"Northcrest, Del Norte County",us
+928,"New Orleans, Orleans Parish",us
+929,"Prunedale, Monterey County",us
+930,"Washington, Washington County",us
+931,"Day, Isanti County",us
+932,"Murfreesboro, Rutherford County",us
+933,"Salem, Utah County",us
+934,"Oildale, Kern County",us
+935,"Martell, Amador County",us
+936,"Hessville, Lake County",us
+937,"Braddock, Allegheny County",us
+938,"Hillcrest, Broward County",us
+939,"Elk River, Sherburne County",us
+940,"Eagle Lake, Polk County",us
+941,"Richmond, Fort Bend County",us
+942,"Castlewood, Centennial",us
+943,"Little Tucson, Pima County",us
+944,"Manvel, Brazoria County",us
+945,"Milwaukee, Milwaukee County",us
+946,"Chinatown, Houston",us
+947,"Saint Charles, Charles County",us
+948,"Corliss, Allegheny County",us
+949,"Tysons Corner, Fairfax County",us
+950,"Content, Coleman County",us
+951,"Sewaren, Woodbridge",us
+952,"Dunbridge, Wood County",us
+953,"Jeannette, Westmoreland County",us
+954,"Kensington, Montgomery County",us
+955,"North Houston, Harris County",us
+956,"Chula Vista, San Diego County",us
+957,"Dudley, Laurens County",us
+958,"Engleside, Fairfax County",us
+959,"Lowell, Middlesex County",us
+960,"Savannah, Chatham County",us
+961,"Spencer, Roane County",us
+962,"Fort Bliss, El Paso County",us
+963,"Centralia, Marion County",us
+964,"Fargo, Cass County",us
+965,"Aspen Park, Jefferson County",us
+966,"Villa Rica, Carroll County",us
+967,"Saco, York County",us
+968,"Livingston, Livingston Parish",us
+969,"Eagle Lake, Colorado County",us
+970,"Corona, Riverside County",us
+971,"San Antonio, Pasco County",us
+972,"Fountainebleau, Miami-Dade County",us
+973,"Ashtabula, Ashtabula County",us
+974,"Stapleton, Jefferson County",us
+975,"Leominster, Worcester County",us
+976,"Angle, Garfield County",us
+977,"Buena Vista, Marion County",us
+978,"Menlo, Chattooga County",us
+979,"Plymouth, Orange County",us
+980,"Moodus, Middlesex County",us
+981,"Laurel Park, Henderson County",us
+982,"Winnsboro, Wood County",us
+983,"North Waltham, Middlesex County",us
+984,"Clovis, Fresno County",us
+985,"Englishtown, Monmouth County",us
+986,"Kahului, Maui",us
+987,"Waconia, Carver County",us
+988,"Norman, Cleveland County",us
+989,"North Wichita, Sedgwick County",us
+990,"Borger, Hutchinson County",us
+991,"Balcones Heights, Bexar County",us
+992,"Boswell, Benton County",us
+993,"Joiner, Mississippi County",us
+994,"Indian Rocks Beach, Pinellas County",us
+995,"Aiken, Aiken County",us
+996,"Cedar Park, Williamson County",us
+997,"Struthers, Mahoning County",us
+998,"Oakdale, Allegheny County",us
+999,"Augusta, Butler County",us
+1000,"Chickamauga, Hamilton County",us
+1001,"Loma Linda, San Bernardino County",us
+1002,"Cushing, Salt Lake County",us
+1003,"Glen Mills, Delaware County",us
+1004,"Capitol Reef, Wayne County",us
+1005,"Yalesville, New Haven County",us
+1006,"Wescosville, Lehigh County",us
+1007,"Charlotte, Mecklenburg County",us
+1008,"Forest Heights, Prince George's County",us
+1009,"Bosque Farms, Valencia County",us
+1010,"Bryantsville, Garrard County",us
+1011,"Jellico, Campbell County",us
+1012,"Stephenson, Frederick County",us
+1013,"Bloomington, Hennepin County",us
+1014,"Pear Valley, McCulloch County",us
+1015,"Benchley, Brazos County",us
+1016,"Corrales, Sandoval County",us
+1017,"Sparks, Baltimore County",us
+1018,"Scottsburg, Halifax County",us
+1019,"Oshtemo, Kalamazoo County",us
+1020,"Cudahy, Los Angeles County",us
+1021,"Lake Murray, Lexington County",us
+1022,"Courtney, Washington County",us
+1023,"Wardsville, Cole County",us
+1024,"Soledad, Monterey County",us
+1025,"Jackson, Hinds County",us
+1026,"Jere Baxter, Davidson County",us
+1027,"Solms, Comal County",us
+1028,"Soudersburg, Lancaster County",us
+1029,"Azalea Park, Orange County",us
+1030,"Roxton, Lamar County",us
+1031,"Beaver Meadow, Chenango County",us
+1032,"Mankato, Blue Earth County",us
+1033,"Mount Vernon, Lee County",us
+1034,"Pleasant Corners, Pickaway County",us
+1035,"West Trenton, Mercer County",us
+1036,"Mandan, Morton County",us
+1037,"Scaggsville, Howard County",us
+1038,"Chestnut, Union County",us
+1039,"Gainesville, Alachua County",us
+1040,"Winston Salem, Forsyth County",us
+1041,"Manchester, Saint Louis County",us
+1042,"Dortches, Edgecombe County",us
+1043,"Golden Valley, Hennepin County",us
+1044,"Lynn Haven, Bay County",us
+1045,"Louviers, Douglas County",us
+1046,"Spring Lake, Ottawa County",us
+1047,"Summerfield, Marion County",us
+1048,"Stokes Bridge, Lee County",us
+1049,"Grandfield, Tillman County",us
+1050,"Leland, Leelanau County",us
+1051,"Mount Victoria, Charles County",us
+1052,"Ashland, Ashland County",us
+1053,"College Dale, Hamilton County",us
+1054,"Augusta, Richmond County",us
+1055,"Apopka, Orange County",us
+1056,"Ironton, Lawrence County",us
+1057,"Lambertville, Monroe County",us
+1058,"Ferris, Ellis County",us
+1059,"Waskom, Harrison County",us
+1060,"Charleston, Kanawha County",us
+1061,"Alamance, Alamance County",us
+1062,"Crystal, Hennepin County",us
+1063,"La Place, St. John the Baptist Parish",us
+1064,"Pueblo West, Pueblo County",us
+1065,"Mattoon, Coles County",us
+1066,"Ector, Fannin County",us
+1067,"Asheville, Buncombe County",us
+1068,"East Helena, Lewis and Clark County",us
+1069,"Rockport, Aransas County",us
+1070,"Oneco, Manatee County",us
+1071,"Bismarck, Burleigh County",us
+1072,"Bartlett, DuPage County",us
+1073,"Miromar Lakes, Lee County",us
+1074,"Van Buren, Onondaga County",us
+1075,"Jay, Jay County",us
+1076,"Centerville, Houston County",us
+1077,"Albuquerque, Bernalillo County",us
+1078,"Parrish, Manatee County",us
+1079,"Bucyrus, Miami County",us
+1080,"Clarksburg, Carroll County",us
+1081,"Winston, Polk County",us
+1082,"Ladonia, Russell County",us
+1083,"Franklin, Williamson County",us
+1084,"Halyoke, Hampden County",us
+1085,"Longmont, Boulder County",us
+1086,"Morganton, Burke County",us
+1087,"Moncks Corner, Berkeley County",us
+1088,"River Oaks, Houston",us
+1089,"Evergreen, Jefferson County",us
+1090,"Norfolk, Madison County",us
+1091,"Spring House, Montgomery County",us
+1092,"Weddington, Union County",us
+1093,"Solana Beach, San Diego County",us
+1094,"Alden, McHenry County",us
+1095,"Mccullough, Escambia County",us
+1096,"Henrico, Henrico County",us
+1097,"Saint Clairsville, Belmont County",us
+1098,"Dodge, Cullman County",us
+1099,"Stoddard, Morgan County",us
+1100,"Maxwell, Caldwell County",us
+1101,"Louisville, Jefferson County",us
+1102,"Laurel, Sarasota County",us
+1103,"Roslindale, Suffolk County",us
+1104,"North Conway, Carroll County",us
+1105,"Williamstown, Wood County",us
+1106,"Glasgow, Rockbridge County",us
+1107,"Lake Wales, Polk County",us
+1108,"Lauderdale, Ramsey County",us
+1109,"Duluth, Saint Louis County",us
+1110,"Urbana, Champaign County",us
+1111,"South Butler, Wayne County",us
+1112,"Gilbert, Maricopa County",us
+1113,"Kutztown, Berks County",us
+1114,"Gardner, Johnson County",us
+1115,"Assembly, Haywood County",us
+1116,"Northville, Wayne County",us
+1117,"Fresno, Fresno County",us
+1118,"South Des Moines, Polk County",us
+1119,"Kewanee, Henry County",us
+1120,"Mint Hill, Mecklenburg County",us
+1121,"Cabot, Lonoke County",us
+1122,"Frydek, Austin County",us
+1123,"Tipp City, Miami County",us
+1124,"Antioch, Contra Costa County",us
+1125,"Hopewell, Mercer County",us
+1126,"Bradner, Wood County",us
+1127,"Littleton, Halifax County",us
+1128,"Okeechobee, Okeechobee County",us
+1129,"Waco, McLennan County",us
+1130,"Tierra Verde, Pinellas County",us
+1131,"Winton, Merced County",us
+1132,"Dawson, Terrell County",us
+1133,"Rantoul, Franklin County",us
+1134,"Walnut Bottom, Cumberland County",us
+1135,"Glenworth, Schuylkill County",us
+1136,"Princeton, Mille Lacs County",us
+1137,"Delta, Delta County",us
+1138,"Indian Wells, Riverside County",us
+1139,"West Islip, Suffolk County",us
+1140,"West Valley City, Salt Lake County",us
+1141,"San Luis, Yuma County",us
+1142,"Stoughton, Dane County",us
+1143,"Central Falls, Providence County",us
+1144,"Northlake, DeKalb County",us
+1145,"Wyoming, Kent County",us
+1146,"Martin, Stephens County",us
+1147,"Greenview, Menard County",us
+1148,"Holly Park, Los Angeles County",us
+1149,"Wilmington Island, Chatham County",us
+1150,"Tega Cay, York County",us
+1151,"Hillsborough, Somerset County",us
+1152,"Blacksburg, Montgomery County",us
+1153,"Latrobe, Westmoreland County",us
+1154,"Harriman, Roane County",us
+1155,"Glenview, Cook County",us
+1156,"Clayton, Saint Louis County",us
+1157,"Jersey, Walton County",us
+1158,"Burlington, Middlesex County",us
+1159,"Gretna, Gadsden County",us
+1160,"Modena, Chester County",us
+1161,"Viola, Mercer County",us
+1162,"Northpoint, Pulaski County",us
+1163,"Sierra Bonita, Cochise County",us
+1164,"Rialto, San Bernardino County",us
+1165,"Talmo, Jackson County",us
+1166,"Raleigh, Wake County",us
+1167,"Stockton, Tooele County",us
+1168,"Georgetown, Meigs County",us
+1169,"Fort Walton Beach, Okaloosa County",us
+1170,"Pinecraft, Sarasota County",us
+1171,"Coco River, Collier County",us
+1172,"Chino, San Bernardino County",us
+1173,"Guthrie, Callaway County",us
+1174,"Pebble Creek, Hillsborough County",us
+1175,"Market, Los Angeles County",us
+1176,"Quincy, Adams County",us
+1177,"Fountain Hills, Maricopa County",us
+1178,"Metuchen, Middlesex County",us
+1179,"Aggieland, Brazos County",us
+1180,"Moraine, Montgomery County",us
+1181,"Roxbury Crossing, Suffolk County",us
+1182,"Keene, Cheshire County",us
+1183,"Mart, McLennan County",us
+1184,"Idaho Springs, Clear Creek County",us
+1185,"Reedsburg, Sauk County",us
+1186,"Georgetown, Grant Parish",us
+1187,"Spring Valley Lake, San Bernardino County",us
+1188,"Tullytown, Bucks County",us
+1189,"Murrysville, Westmoreland County",us
+1190,"Clear Lake, Sherburne County",us
+1191,"Altamont, Grundy County",us
+1192,"Brookland, Craighead County",us
+1193,"Ellsworth, Antrim County",us
+1194,"Conway, Horry County",us
+1195,"Buffalo, Wright County",us
+1196,"Moreno Valley, Riverside County",us
+1197,"Dalhart, Dallam County",us
+1198,"Decker Prairie, Montgomery County",us
+1199,"Rib Mountain, Marathon County",us
+1200,"Clemson, Pickens County",us
+1201,"Vandenberg Air Force Base, Santa Barbara County",us
+1202,"Van Wert, Van Wert County",us
+1203,"West Lebanon, Grafton County",us
+1204,"Fair Oaks, Kendall County",us
+1205,"Mccutchanville, Vanderburgh County",us
+1206,"Midland, Midland County",us
+1207,"Kingsley, Grand Traverse County",us
+1208,"Euless, Tarrant County",us
+1209,"Lollie, Laurens County",us
+1210,"Georgia, US",us
+1211,"Milford, Sussex County",us
+1212,"Elkhurst, Boone County",us
+1213,"Timpanogos, Utah County",us
+1214,"Chenoa, McLean County",us
+1215,"Rochester, Olmsted County",us
+1216,"Belleair, Pinellas County",us
+1217,"Fruit Heights, Davis County",us
+1218,"Fairmount, Grant County",us
+1219,"Arab, Marshall County",us
+1220,"Gridiron, Harris County",us
+1221,"Saint Petersburg, Pinellas County",us
+1222,"Wolfforth, Lubbock County",us
+1223,"Casa Blanca, Riverside County",us
+1224,"Oro Valley, Pima County",us
+1225,"Prairieville, Ascension Parish",us
+1226,"Hyde Park, Hamilton County",us
+1227,"Blissfield, Lenawee County",us
+1228,"Silvis, Rock Island County",us
+1229,"Pinehurst, Moore County",us
+1230,"Greenwood, King County",us
+1231,"Eden, Concho County",us
+1232,"Spruce Pine, Mitchell County",us
+1233,"South Boston, Suffolk County",us
+1234,"Westbrook, Cumberland County",us
+1235,"Lansing, Leavenworth County",us
+1236,"Avondale, Clay County",us
+1237,"West Haven, Weber County",us
+1238,"Corcoran, Hennepin County",us
+1239,"Northwestern, Natchitoches Parish",us
+1240,"Turner, Marion County",us
+1241,"Woodstock, McHenry County",us
+1242,"Bloomingdale, Hillsborough County",us
+1243,"Medina, Gibson County",us
+1244,"Lyndhurst, Augusta County",us
+1245,"Cordova, Walker County",us
+1246,"Greenville, Greenville County",us
+1247,"Channing, Hartley County",us
+1248,"Ballardsville, Oldham County",us
+1249,"Sunnyside, Northumberland County",us
+1250,"Mission Hills, Johnson County",us
+1251,"Candlewick Lake, Boone County",us
+1252,"Eau Gallie, Brevard County",us
+1253,"Willacoochee, Atkinson County",us
+1254,"Cainhoy, Berkeley County",us
+1255,"Edwardsville, Cleburne County",us
+1256,"San Carlos Park, Lee County",us
+1257,"Cresmont, Schuylkill County",us
+1258,"Fort Hood, Bell County",us
+1259,"Harvard Square, Middlesex County",us
+1260,"Northdale, Hillsborough County",us
+1261,"San Diego, San Diego County",us
+1262,"Atascocita, Harris County",us
+1263,"Brooklandville, Baltimore County",us
+1264,"Loves Park, Winnebago County",us
+1265,"Halls, Lycoming County",us
+1266,"East Case, Baltimore",us
+1267,"Saint Bernard, Hamilton County",us
+1268,"Saint John, Lake County",us
+1269,"Enterprise, Clark County",us
+1270,"Booth, Fort Bend County",us
+1271,"Silver Beach, Whatcom County",us
+1272,"East Ridge, Hamilton County",us
+1273,"Midway, Hot Spring County",us
+1274,"Easley, Pickens County",us
+1275,"Hillview, Bonneville County",us
+1276,"Bal Harbour, Miami-Dade County",us
+1277,"Cumberland, Allegany County",us
+1278,"Poolesville, Montgomery County",us
+1279,"Hamilton, Mercer County",us
+1280,"Lakewood, Cuyahoga County",us
+1281,"Priceville, Morgan County",us
+1282,"Portland, Multnomah County",us
+1283,"Henrietta, Clay County",us
+1284,"Big Lake, Sherburne County",us
+1285,"Chamberlayne, Henrico County",us
+1286,"Olton, Lamb County",us
+1287,"Maroa, Macon County",us
+1288,"Chinatown, San Francisco",us
+1289,"Green City, Sullivan County",us
+1290,"Lakewood, Ocean County",us
+1291,"Mendota Heights, Dakota County",us
+1292,"Live Oak, Bexar County",us
+1293,"Harlingen, Cameron County",us
+1294,"Bartow, Polk County",us
+1295,"Champion Forest, Houston",us
+1296,"Juanita, King County",us
+1297,"Harvey, Cook County",us
+1298,"Meadowbrook, Shelby County",us
+1299,"Austin, Travis County",us
+1300,"Lepanto, Poinsett County",us
+1301,"Douglassville, Berks County",us
+1302,"Butler, Montgomery County",us
+1303,"Kellyville, Creek County",us
+1304,"Avon, Lorain County",us
+1305,"Manchester, Hillsborough County",us
+1306,"Elmore, Elmore County",us
+1307,"Hobe Sound, Martin County",us
+1308,"New Brunswick, Middlesex County",us
+1309,"South Erie, Erie County",us
+1310,"Atlas, Northumberland County",us
+1311,"Hilo, Hawaii",us
+1312,"Albany, Alameda County",us
+1313,"Wagener, Aiken County",us
+1314,"Bridgeport, Fairfield County",us
+1315,"Whitehall, Muskegon County",us
+1316,"Wyomissing Hills, Berks County",us
+1317,"Willamette, Clackamas County",us
+1318,"West Salem, La Crosse County",us
+1319,"Jena, LaSalle Parish",us
+1320,"Terrytown, Jefferson Parish",us
+1321,"Panorama Heights, Sandoval County",us
+1322,"Burlington, Des Moines County",us
+1323,"Big Springs, Calhoun County",us
+1324,"Royal City, Grant County",us
+1325,"Botkins, Shelby County",us
+1326,"Stillmore, Emanuel County",us
+1327,"Stockton, San Joaquin County",us
+1328,"Florida, San Juan",us
+1329,"Wichita, Sedgwick County",us
+1330,"Braselton, Jackson County",us
+1331,"Waldron, Scott County",us
+1332,"Emory, Rains County",us
+1333,"Stonecrest, DeKalb County",us
+1334,"Charlevoix, Charlevoix County",us
+1335,"Coon Rapids, Anoka County",us
+1336,"Fonda, Montgomery County",us
+1337,"Country Life Acres, Saint Louis County",us
+1338,"Birmingham, Jefferson County",us
+1339,"Lenoir Rhyne, Catawba County",us
+1340,"Alameda Pt, Alameda County",us
+1341,"Mc Farland, Dane County",us
+1342,"Lake Monroe, Seminole County",us
+1343,"The Geysers, Sonoma County",us
+1344,"Bennington, Bennington County",us
+1345,"Pepper Pike, Cuyahoga County",us
+1346,"Cherry Hills Village, Arapahoe County",us
+1347,"Willards, Wicomico County",us
+1348,"Bushnell, Box Elder County",us
+1349,"Holiday Hills, McHenry County",us
+1350,"Ruffs Dale, Westmoreland County",us
+1351,"Livingston, Merced County",us
+1352,"Hopeful Heights, Boone County",us
+1353,"Shorewood, Milwaukee County",us
+1354,"Sergeant Bluff, Woodbury County",us
+1355,"East Long Beach, Los Angeles County",us
+1356,"Tabor City, Columbus County",us
+1357,"Dyersville, Dubuque County",us
+1358,"Cohasset, Norfolk County",us
+1359,"Laurel Park, Harrison County",us
+1360,"West Virginia, US",us
+1361,"England, Lonoke County",us
+1362,"Ivins, Washington County",us
+1363,"Saint Francis, Milwaukee County",us
+1364,"Windsor, Dane County",us
+1365,"Whittier, Jackson County",us
+1366,"Aberdeen, Brown County",us
+1367,"Okefenokee, Ware County",us
+1368,"Calera, Shelby County",us
+1369,"Greenland, Washington County",us
+1370,"Norwood, Norfolk County",us
+1371,"Maricamp, Marion County",us
+1372,"Lewiston, Androscoggin County",us
+1373,"Kilkenny, Le Sueur County",us
+1374,"Bradley, Kankakee County",us
+1375,"Mountain Home, Washington County",us
+1376,"Montgomery Village, Montgomery County",us
+1377,"Washington, Tazewell County",us
+1378,"Pegram, Cheatham County",us
+1379,"Franklinton, Franklin County",us
+1380,"Montclair, Denver",us
+1381,"Largo, Pinellas County",us
+1382,"Hillcrest, Ogle County",us
+1383,"Lansdowne, Delaware County",us
+1384,"Lakeland, Shelby County",us
+1385,"Quartz Hill, Los Angeles County",us
+1386,"Waterford, Erie County",us
+1387,"Upper Union, Schenectady County",us
+1388,"Crane, Crane County",us
+1389,"Winter Haven, Polk County",us
+1390,"Wenatchee Heights, Chelan County",us
+1391,"Williams Creek, Marion County",us
+1392,"Alondra Park, Los Angeles County",us
+1393,"Overland, Johnson County",us
+1394,"Port Richey, Pasco County",us
+1395,"Sewalls Point, Martin County",us
+1396,"Millican, Brazos County",us
+1397,"Kite, Johnson County",us
+1398,"Waverly, Baltimore",us
+1399,"Clearwater Beach, Pinellas County",us
+1400,"Waverly, Wright County",us
+1401,"Mango, Hillsborough County",us
+1402,"Norwood, Warren County",us
+1403,"Lawrence, Douglas County",us
+1404,"Greenleaf, Brown County",us
+1405,"Winooski, Chittenden County",us
+1406,"Veribest, Tom Green County",us
+1407,"Midfield, Jefferson County",us
+1408,"Richmond, Washington County",us
+1409,"Earlville, LaSalle County",us
+1410,"North Tonawanda, Niagara County",us
+1411,"Bryan, Brazos County",us
+1412,"Lockwood, Yellowstone County",us
+1413,"West Carrollton, Montgomery County",us
+1414,"Bogart, Oconee County",us
+1415,"Campbell, Santa Clara County",us
+1416,"Bellevue, King County",us
+1417,"Fort Gay, Wayne County",us
+1418,"Carbon Cliff, Rock Island County",us
+1419,"Mishawaka, St. Joseph County",us
+1420,"Montbello, Denver",us
+1421,"Watson, Clark County",us
+1422,"Delaware, Delaware County",us
+1423,"Hayes Valley, San Francisco",us
+1424,"Gibsonton, Hillsborough County",us
+1425,"Vanderbilt, Collier County",us
+1426,"Bixby, Tulsa County",us
+1427,"Westmoreland, Sumner County",us
+1428,"Hoboken, Chenango County",us
+1429,"Vernon, Wilbarger County",us
+1430,"Gonic, Strafford County",us
+1431,"Potter, Atchison County",us
+1432,"Brevard, Transylvania County",us
+1433,"Baxter, Pueblo County",us
+1434,"Mountain View, Santa Clara County",us
+1435,"Frankfort, Franklin County",us
+1436,"Peoria, Maricopa County",us
+1437,"Hopewell, Hopewell City",us
+1438,"Rittman, Wayne County",us
+1439,"Oceanport, Monmouth County",us
+1440,"Englewood Beach, Sarasota County",us
+1441,"Marshfield, Wood County",us
+1442,"Phoenix, Maricopa County",us
+1443,"Lilly, Dooly County",us
+1444,"New Castle, Henry County",us
+1445,"Montgomery, Montgomery County",us
+1446,"Sand Lake, Orange County",us
+1447,"Ferges, Williamson County",us
+1448,"Imperial, Imperial County",us
+1449,"Pineridge, Lexington County",us
+1450,"Ozawkie, Jefferson County",us
+1451,"Belvedere, Aiken County",us
+1452,"Sun City West, Maricopa County",us
+1453,"Hamilton, Harris County",us
+1454,"Royalton, Dauphin County",us
+1455,"Rolling Meadows, Cook County",us
+1456,"Berry Hill, Davidson County",us
+1457,"Thunderbolt, Chatham County",us
+1458,Polska,pl
+1459,"Warszawa, mazowieckie",pl
+1460,"Zgierz, łódzkie",pl
+1461,"Dąbrowa Górnicza, śląskie",pl
+1462,"Ruda Śląska, śląskie",pl
+1463,"Kraków, małopolskie",pl
+1464,"Łódź, łódzkie",pl
+1465,"Ełk, warmińsko-mazurskie",pl
+1466,"Katowice, śląskie",pl
+1467,"Toruń, kujawsko-pomorskie",pl
+1468,"Wrocław, dolnośląskie",pl
+1469,"Gdańsk, Trójmiasto",pl
+1470,"Poznań, wielkopolskie",pl
+1471,"Dobrzyków, mazowieckie",pl
+1472,"Nysa, opolskie",pl
+1473,"Police, zachodniopomorskie",pl
+1474,"Białystok, podlaskie",pl
+1475,"Lelis, mazowieckie",pl
+1476,"Gorzów Wielkopolski, lubuskie",pl
+1477,"Gromadka, dolnośląskie",pl
+1478,"Opole, opolskie",pl
+1479,"Tychy, śląskie",pl
+1480,"Żary, lubuskie",pl
+1481,"Głogówek, opolskie",pl
+1482,"Kutno, łódzkie",pl
+1483,"Górowo Iławeckie, warmińsko-mazurskie",pl
+1484,"Żarnowiec, śląskie",pl
+1485,"Myszków, śląskie",pl
+1486,"Zabierzów, małopolskie",pl
+1487,"kujawsko-pomorskie, Polska",pl
+1488,"Słubice, lubuskie",pl
+1489,"Elbląg, warmińsko-mazurskie",pl
+1490,"Goleniów, zachodniopomorskie",pl
+1491,"Konin, wielkopolskie",pl
+1492,"Bydgoszcz, kujawsko-pomorskie",pl
+1493,"Człopa, zachodniopomorskie",pl
+1494,"Czeladź, śląskie",pl
+1495,"Września, wielkopolskie",pl
+1496,"Kartuzy, pomorskie",pl
+1497,"Rzeszów, podkarpackie",pl
+1498,"Gdynia, Trójmiasto",pl
+1499,"Istebna, śląskie",pl
+1500,"Tłuszcz, mazowieckie",pl
+1501,"Lublin, lubelskie",pl
+1502,"Mszczonów, mazowieckie",pl
+1503,"Toszek, śląskie",pl
+1504,"Pruszków, mazowieckie",pl
+1505,"Świętochłowice, śląskie",pl
+1506,"Lubin, dolnośląskie",pl
+1507,"Częstochowa, śląskie",pl
+1508,"Piekary Śląskie, śląskie",pl
+1509,"Sieradz, łódzkie",pl
+1510,"Łomża, podlaskie",pl
+1511,"Garwolin, mazowieckie",pl
+1512,"Piła, wielkopolskie",pl
+1513,"Gliwice, śląskie",pl
+1514,"Szczecin, zachodniopomorskie",pl
+1515,"Olsztyn, warmińsko-mazurskie",pl
+1516,"Sierpc, mazowieckie",pl
+1517,"Świecie, kujawsko-pomorskie",pl
+1518,"Mińsk Mazowiecki, mazowieckie",pl
+1519,"Sosnowiec, śląskie",pl
+1520,"Zielona Góra, lubuskie",pl
+1521,"Grodzisk Mazowiecki, mazowieckie",pl
+1522,"Kielce, świętokrzyskie",pl
+1523,"Rumia, pomorskie",pl
+1524,"Żyrardów, mazowieckie",pl
+1525,"Stargard Szczeciński, zachodniopomorskie",pl
+1526,"Kleszczów, łódzkie",pl
+1527,"Skierniewice, łódzkie",pl
+1528,"Ciechanów, mazowieckie",pl
+1529,"Szklarska Poręba, dolnośląskie",pl
+1530,"Bytom, śląskie",pl
+1531,"Leśniewo, pomorskie",pl
+1532,"Opoczno, łódzkie",pl
+1533,"Oświęcim, małopolskie",pl
+1534,"Boćki, podlaskie",pl
+1535,"Tarnobrzeg, podkarpackie",pl
+1536,"Przysucha, mazowieckie",pl
+1537,"Szamotuły, wielkopolskie",pl
+1538,"Kołobrzeg, zachodniopomorskie",pl
+1539,"Nowy Dwór Mazowiecki, mazowieckie",pl
+1540,"Siedlce, małopolskie",pl
+1541,"Tczew, pomorskie",pl
+1542,"Ożarów Mazowiecki, mazowieckie",pl
+1543,"Radom, mazowieckie",pl
+1544,"Karpacz, dolnośląskie",pl
+1545,"Łowiczek, kujawsko-pomorskie",pl
+1546,"Płock, mazowieckie",pl
+1547,"Zakroczym, mazowieckie",pl
+1548,"Nakło nad Notecią, kujawsko-pomorskie",pl
+1549,"Legionowo, mazowieckie",pl
+1550,"Budzów, małopolskie",pl
+1551,"Koszalin, zachodniopomorskie",pl
+1552,"Zamość, lubelskie",pl
+1553,"Chorzów, śląskie",pl
+1554,"Łomianki, mazowieckie",pl
+1555,"Nowy Tomyśl, wielkopolskie",pl
+1556,"Narewka, podlaskie",pl
+1557,"Rzgów, wielkopolskie",pl
+1558,"Nowy Targ, małopolskie",pl
+1559,"Sztum, pomorskie",pl
+1560,"Goczałkowice-Zdrój, śląskie",pl
+1561,"East Butterwick, Scunthorpe",gb
+1562,"Hookwood, Horley",gb
+1563,"Newtownabbey, County Antrim",gb
+1564,"Leeds, West Yorkshire",gb
+1565,"Newry, Newry & Mourne",gb
+1566,"Eastbourne, East Sussex",gb
+1567,"Forest Moor, Knaresborough",gb
+1568,"Ringwood, Hampshire",gb
+1569,"Slough, Berkshire",gb
+1570,"Mossley, Newtownabbey",gb
+1571,"Westhill, Inverness",gb
+1572,"Craigavon, Northern Ireland",gb
+1573,"Ballymena, Northern Ireland",gb
+1574,"Stafford, Staffordshire",gb
+1575,"Garden Village, Hull",gb
+1576,"Antrim, County Antrim",gb
+1577,"Downpatrick, County Down",gb
+1578,"Banbridge, County Down",gb
+1579,"Sayerland, Polegate",gb
+1580,"Canterbury, Kent",gb
+1581,"Brampton, Huntingdon",gb
+1582,"North West England, UK",gb
+1583,"Grange, St. Andrews",gb
+1584,"Sutton-On-Hull, Hull",gb
+1585,"Bridgend County, Wales",gb
+1586,"Worthing, West Sussex",gb
+1587,"Porton Down, Salisbury",gb
+1588,"Beckwith, Harrogate",gb
+1589,"Lye, Stourbridge",gb
+1590,"Stapleton, Bristol",gb
+1591,"Sneinton, Nottingham",gb
+1592,"Palgrave, Diss",gb
+1593,"Hemel Hempstead, Hertfordshire",gb
+1594,"Haddington, East Lothian",gb
+1595,"Loch Flemington, Inverness",gb
+1596,"Old Town, Wotton-Under-Edge",gb
+1597,"Northway, Tewkesbury",gb
+1598,"Dungannon, County Tyrone",gb
+1599,"Brinsworth, Rotherham",gb
+1600,"St. Judes, Bristol",gb
+1601,"Luton, Bedfordshire",gb
+1602,"Hayes, London",gb
+1603,"Ashbourne, Derbyshire",gb
+1604,"Halesowen, West Midlands",gb
+1605,"Bury St. Edmunds, Suffolk",gb
+1606,"Droitwich, Worcestershire",gb
+1607,"West Midlands, UK",gb
+1608,"Marlow, Buckinghamshire",gb
+1609,"Shrewsbury, Shropshire",gb
+1610,"Borley Green, Woolpit",gb
+1611,"Hampshire, South East England",gb
+1612,"Bolton, Greater Manchester",gb
+1613,"Snedshill, Telford",gb
+1614,"Ashington, Northumberland",gb
+1615,"Oakham, Rutland",gb
+1616,"Longford Turning, Market Drayton",gb
+1617,"Lindfield, Haywards Heath",gb
+1618,"Reading, Berkshire",gb
+1619,"Witham St. Hughs, Lincoln",gb
+1620,"Corsham, Wiltshire",gb
+1621,"Hamilton, South Lanarkshire",gb
+1622,"Kilsyth, North Lanarkshire",gb
+1623,"Lugton, Kilmarnock",gb
+1624,"Lochgilphead, Argyll & Bute",gb
+1625,"Chester, Cheshire",gb
+1626,"Egham, Surrey",gb
+1627,"Edinburgh Technopole, Milton Bridge",gb
+1628,"Ipswich, Suffolk",gb
+1629,"Barnsley, South Yorkshire",gb
+1630,"Kent, South East England",gb
+1631,"Stockport, Greater Manchester",gb
+1632,"Waterlooville, Hampshire",gb
+1633,"Sutton Coldfield, West Midlands",gb
+1634,"Cullompton, Devon",gb
+1635,"Addlestone, Surrey",gb
+1636,"Stoke-On-Trent, Staffordshire",gb
+1637,"Worksop, Nottinghamshire",gb
+1638,"Stourbridge, West Midlands",gb
+1639,"Huddersfield, West Yorkshire",gb
+1640,"Dereham, Norfolk",gb
+1641,"Bolton By Bowland, Clitheroe",gb
+1642,"Fleetwood, Lancashire",gb
+1643,"Guildford, Surrey",gb
+1644,"Great Missenden, Buckinghamshire",gb
+1645,"Uxbridge, London",gb
+1646,"Wilmslow, Cheshire",gb
+1647,"Northolt, West London",gb
+1648,"Totton, Southampton",gb
+1649,"Loudwater, Rickmansworth",gb
+1650,"Rochdale, Greater Manchester",gb
+1651,"Leyland, Lancashire",gb
+1652,"Hillside, Montrose",gb
+1653,"Forfar, Angus",gb
+1654,"Redditch, Worcestershire",gb
+1655,"Rayleigh, Essex",gb
+1656,"Glossop, Derbyshire",gb
+1657,"Berkhamsted, Hertfordshire",gb
+1658,"Lancashire, North West England",gb
+1659,"Higham Hill, East London",gb
+1660,"Stowmarket, Suffolk",gb
+1661,"Bicester, Oxfordshire",gb
+1662,"Hertfordshire, Eastern England",gb
+1663,"Hereford, Herefordshire",gb
+1664,"Croydon, London",gb
+1665,"Romford, Essex",gb
+1666,"Bromley, South East London",gb
+1667,"Burgess Hill, West Sussex",gb
+1668,"Princes Risborough, Buckinghamshire",gb
+1669,"Scarborough, North Yorkshire",gb
+1670,"Stansted, Essex",gb
+1671,"Cirencester, Gloucestershire",gb
+1672,"York, North Yorkshire",gb
+1673,"Rochester, Kent",gb
+1674,"Malmesbury, Wiltshire",gb
+1675,"Brentwood, Essex",gb
+1676,"Piccadilly, West London",gb
+1677,"Port Glasgow, Inverclyde",gb
+1678,"Kensington, West London",gb
+1679,"Grimsargh, Preston",gb
+1680,"Southwick, Sunderland",gb
+1681,"Kidlington, Oxfordshire",gb
+1682,"Haymarket, South West London",gb
+1683,"St John's Wood, North West London",gb
+1684,"Longford, Ashbourne",gb
+1685,"Hurst Green, Halesowen",gb
+1686,"Lyng, West Bromwich",gb
+1687,"Clerkenwell, Central London",gb
+1688,"Chilworth Science Park, Chilworth",gb
+1689,"Aldwych, Central London",gb
+1690,"Bollington, Macclesfield",gb
+1691,"Matlock, Derbyshire",gb
+1692,"Earlswood, Solihull",gb
+1693,"Bestwood Village, Nottingham",gb
+1694,"Kirkhamgate, Wakefield",gb
+1695,"Higher Broughton, Salford",gb
+1696,"Loudwater, High Wycombe",gb
+1697,"Bisham, Marlow",gb
+1698,"Millerston, Glasgow",gb
+1699,"Tilmanstone, Deal",gb
+1700,"Ruabon, Wrexham",gb
+1701,"Hyde Park, Leeds",gb
+1702,"St. Helens, Merseyside",gb
+1703,"Covent Garden, Central London",gb
+1704,"Withington, Manchester",gb
+1705,"Heeley, Sheffield",gb
+1706,"Hampton Poyle, Kidlington",gb
+1707,"North Berwick, East Lothian",gb
+1708,"Ardingly, Haywards Heath",gb
+1709,"Horley, Surrey",gb
+1710,"Tyndalls Park, Bristol",gb
+1711,"Wrexham, Wales",gb
+1712,"St. Johns, Worcester",gb
+1713,"Easter Compton, Bristol",gb
+1714,"New Haw, Addlestone",gb
+1715,"West London, London",gb
+1716,"Deritend, Birmingham",gb
+1717,"Arlingham, Gloucester",gb
+1718,"Ardwick, Manchester",gb
+1719,"Willenhall, West Midlands",gb
+1720,"Pencoed, Bridgend",gb
+1721,"Bridgend, Bridgend County",gb
+1722,"Hallwood Park, Runcorn",gb
+1723,"Finsbury, Central London",gb
+1724,"Longbenton, Newcastle Upon Tyne",gb
+1725,"St. Augustines, Bristol",gb
+1726,"Portsmouth, Hampshire",gb
+1727,"Elrick, Westhill",gb
+1728,"Saltwood, Hythe",gb
+1729,"Stradbroke, Eye",gb
+1730,"Failsworth, Manchester",gb
+1731,"St. Leonards, Exeter",gb
+1732,"Walton, Warrington",gb
+1733,"Taplow, Maidenhead",gb
+1734,"Englefield Green, Egham",gb
+1735,"Merseyside, North West England",gb
+1736,"Rush Green, Romford",gb
+1737,"Central London, London",gb
+1738,"Kenn, Clevedon",gb
+1739,"Gaydon, Warwick",gb
+1740,"Walham, Gloucester",gb
+1741,"Euxton, Chorley",gb
+1742,"St. Mildreds, Canterbury",gb
+1743,"Bromley Cross, Bolton",gb
+1744,"Tutshill, Chepstow",gb
+1745,"Soho, West London",gb
+1746,"Bournemouth, Dorset",gb
+1747,"Raunds, Wellingborough",gb
+1748,"Monkton, Ramsgate",gb
+1749,"Kennington, Ashford",gb
+1750,"Heathwaen, Knockin",gb
+1751,"Southall, West London",gb
+1752,"Repton, Derby",gb
+1753,"Canning Town, East London",gb
+1754,"Ormeau, Belfast",gb
+1755,"Old Marston, Oxford",gb
+1756,"Knightsbridge, South West London",gb
+1757,"Lovington, Castle Cary",gb
+1758,"Chippenham, Wiltshire",gb
+1759,"Grays, Essex",gb
+1760,"Ramsgate, Kent",gb
+1761,"Bushey, Hertfordshire",gb
+1762,"Ludford, Ludlow",gb
+1763,"Grove Park, Enderby",gb
+1764,"Stratton, Cirencester",gb
+1765,"Henley-On-Thames, Oxfordshire",gb
+1766,"Coalville, Leicestershire",gb
+1767,"Selsey, Chichester",gb
+1768,"Long Ashton, Bristol",gb
+1769,"Birchwood, Warrington",gb
+1770,"Glazebury, Warrington",gb
+1771,"Old Trafford, Manchester",gb
+1772,"Lowestoft, Suffolk",gb
+1773,"Shoreham-By-Sea, West Sussex",gb
+1774,"Great Barford, Bedford",gb
+1775,"Lutterworth, Leicestershire",gb
+1776,"Collyhurst, Manchester",gb
+1777,"Ireland, Shefford",gb
+1778,"Runcorn, Cheshire",gb
+1779,"Fleet Street, Central London",gb
+1780,"Old Catton, Norwich",gb
+1781,"Rossendale, Lancashire",gb
+1782,"Northumberland, North East England",gb
+1783,"Gildersome, Morley",gb
+1784,"Filton, Bristol",gb
+1785,"Kirstead, Norwich",gb
+1786,"Cowley, Uxbridge",gb
+1787,"Greenhill, Wootton Bassett",gb
+1788,"Prestwold, Loughborough",gb
+1789,"Churchbridge, Cannock",gb
+1790,"Eye Kettleby, Melton Mowbray",gb
+1791,"Pitsea, Basildon",gb
+1792,"Ravensden, Bedford",gb
+1793,"East Kilbride, South Lanarkshire",gb
+1794,"Leamington Spa, Warwickshire",gb
+1795,"Stanley, Chippenham",gb
+1796,"Langstone, Havant",gb
+1797,"Clotherholme, Ripon",gb
+1798,"Bordesley Green, Birmingham",gb
+1799,"West Hampstead, North West London",gb
+1800,"Charnock Richard, Chorley",gb
+1801,"Broadstone, Dorset",gb
+1802,"Pampisford, Cambridge",gb
+1803,"Mountnessing, Brentwood",gb
+1804,"Holland Moor, Skelmersdale",gb
+1805,"West Pottergate, Norwich",gb
+1806,"Belle Isle, Leeds",gb
+1807,"Stubbington, Fareham",gb
+1808,"Westfield, Sheffield",gb
+1809,"Maney, Sutton Coldfield",gb
+1810,"Freeport, Stephenson County",us
+1811,"Auburn Hills, Oakland County",us
+1812,"Spotsylvania, Spotsylvania County",us
+1813,"Lake of The Woods, Orange County",us
+1814,"Montclair, Prince William County",us
+1815,"Lake Ridge, Prince William County",us
+1816,"Lorton, Fairfax County",us
+1817,"Vint Hill Farms, Fauquier County",us
+1818,"Triangle, Prince William County",us
+1819,"Bealeton, Fauquier County",us
+1820,"Enon, Fredericksburg City",us
+1821,"Warrenton, Fauquier County",us
+1822,"Sealston, King George County",us
+1823,"Ladysmith, Caroline County",us
+1824,"Dumfries, Prince William County",us
+1825,"Woodbridge, Prince William County",us
+1826,"Stafford, Stafford County",us
+1827,"Falmouth, Stafford County",us
+1828,"Woodford, Caroline County",us
+1829,"Nationwide, Spotsylvania County",us
+1830,"Denver, Colorado",us
+1831,"Springfield, Hampden County",us
+1832,"Virginia Beach, Virginia Beach City",us
+1833,"Minneapolis, Hennepin County",us
+1834,"Cottleville, Saint Charles County",us
+1835,"Irving, Dallas",us
+1836,"Lansing, Ingham County",us
+1837,"Dublin, Franklin County",us
+1838,"Baltimore, Baltimore County",us
+1839,"Waterbury, New Haven County",us
+1840,"Juno Beach, Palm Beach County",us
+1841,"Anchorage, Alaska",us
+1842,"San Antonio, Conejos County",us
+1843,"North Palm Beach, Palm Beach County",us
+1844,"Chicago, Cook County",us
+1845,"Oak Brook, DuPage County",us
+1846,"Hunt Valley, Baltimore County",us
+1847,"Nashville, Davidson County",us
+1848,"Highland Park, Dallas",us
+1849,"Trammells, Harris County",us
+1850,"Schiller Park, Cook County",us
+1851,"Washington, Washington, D.C.",us
+1852,"Elkins Park, Montgomery County",us
+1853,"Textile Finance, Los Angeles County",us
+1854,"Grand Central, Manhattan",us
+1855,"Nichols Hills, Oklahoma County",us
+1856,"Florin, Sacramento County",us
+1857,"Mount Rainier, Prince George's County",us
+1858,"Minerva Park, Franklin County",us
+1859,"West Indianapolis, Marion County",us
+1860,"Dearborn, Wayne County",us
+1861,"Battle Creek, Calhoun County",us
+1862,"Cherry Hills, Arapahoe County",us
+1863,"Wake Island, Honolulu",us
+1864,"Fircrest, Pierce County",us
+1865,"Andover, Butler County",us
+1866,"Newark, Essex County",us
+1867,"Grandview Heights, Franklin County",us
+1868,"Providence, Providence County",us
+1869,"Tarrytown, Travis County",us
+1870,"Effingham, Effingham County",us
+1871,"Annapolis, Anne Arundel County",us
+1872,"Frederick, Frederick County",us
+1873,"Glendale Heights, DuPage County",us
+1874,"West Chester, Chester County",us
+1875,"Tupelo, Lee County",us
+1876,"Indiana, Indiana County",us
+1877,"Fort Collins, Larimer County",us
+1878,"Bowie, Prince George's County",us
+1879,"Towson, Baltimore County",us
+1880,"Pearl City, Honolulu",us
+1881,"Colorado Springs, El Paso County",us
+1882,"Kennesaw, Cobb County",us
+1883,"Smyrna, Kent County",us
+1884,"Binghamton, Broome County",us
+1885,"Bristol, Bristol County",us
+1886,"Trenton, Mercer County",us
+1887,"Nampa, Canyon County",us
+1888,"Middletown, New Castle County",us
+1889,"Orem, Utah County",us
+1890,"Harrisonburg, Harrisonburg City",us
+1891,"Brockton, Plymouth County",us
+1892,"Miami, Miami-Dade County",us
+1893,"Wellesley, Norfolk County",us
+1894,"Rochester Hills, Oakland County",us
+1895,"Williamsburg, James City County",us
+1896,"Elizabeth, Union County",us
+1897,"Tucson, Pima County",us
+1898,"Richmond, Richmond County",us
+1899,"Norfolk, Norfolk City",us
+1900,"Salem, Marion County",us
+1901,"Gresham, Multnomah County",us
+1902,"Jersey City, Hudson County",us
+1903,"Davenport, Scott County",us
+1904,"Kenosha, Kenosha County",us
+1905,"Pomona, Los Angeles County",us
+1906,"Athens, Clarke County",us
+1907,"Northridge, Los Angeles County",us
+1908,"Carrollton, Carroll County",us
+1909,"Boone, Watauga County",us
+1910,"Rochester, Strafford County",us
+1911,"Annandale, Fairfax County",us
+1912,"Tampa, Hillsborough County",us
+1913,"Philadelphia, Philadelphia County",us
+1914,"Minot, Ward County",us
+1915,"Warren, Macomb County",us
+1916,"High Point, Guilford County",us
+1917,"Gulfport, Harrison County",us
+1918,"Lawton, Comanche County",us
+1919,"Rockford, Winnebago County",us
+1920,"Chesapeake, Chesapeake City",us
+1921,"New Haven, New Haven County",us
+1922,"Meridian, Ada County",us
+1923,"Reading, Berks County",us
+1924,"Sterling Heights, Macomb County",us
+1925,"Hamden, New Haven County",us
+1926,"Allendale, Ottawa County",us
+1927,"Chico, Butte County",us
+1928,"Rochester, Monroe County",us
+1929,"Cedar Rapids, Linn County",us
+1930,"Essex Junction, Chittenden County",us
+1931,"Flagstaff, Coconino County",us
+1932,"Corpus Christi, Nueces County",us
+1933,"Lake Charles, Calcasieu Parish",us
+1934,"Colchester, Chittenden County",us
+1935,"San Jose, Santa Clara County",us
+1936,"Mililani, Honolulu",us
+1937,"Spokane, Spokane County",us
+1938,"Green Bay, Brown County",us
+1939,"Columbia, Boone County",us
+1940,"Salt Lake City, Salt Lake County",us
+1941,"Augusta, Kennebec County",us
+1942,"Carson City, Nevada",us
+1943,"Whitewater, Walworth County",us
+1944,"Portland, Cumberland County",us
+1945,"San Luis Obispo, San Luis Obispo County",us
+1946,"Huntsville, Madison County",us
+1947,"Eugene, Lane County",us
+1948,"Hagerstown, Washington County",us
+1949,"Mckinney, Collin County",us
+1950,"Rock Hill, York County",us
+1951,"Moscow, Latah County",us
+1952,"Shreveport, Caddo Parish",us
+1953,"Columbus, Franklin County",us
+1954,"Overland Park, Johnson County",us
+1955,"Buffalo, Erie County",us
+1956,"Springdale, Washington County",us
+1957,"Commerce, Hunt County",us
+1958,"Elon, Alamance County",us
+1959,"Oklahoma City, Oklahoma County",us
+1960,"Long Island City, Queens",us
+1961,"Conway, Faulkner County",us
+1962,"Waipahu, Honolulu",us
+1963,"Peoria, Peoria County",us
+1964,"Jonesboro, Craighead County",us
+1965,"Thornton, Adams County",us
+1966,"Ann Arbor, Washtenaw County",us
+1967,"Charleston, Charleston County",us
+1968,"Prairie View, Waller County",us
+1969,"San Marcos, Hays County",us
+1970,"Berrien Springs, Berrien County",us
+1971,"South Portland, Cumberland County",us
+1972,"Norwalk, Fairfield County",us
+1973,"Sparks, Washoe County",us
+1974,"Tuscaloosa, Tuscaloosa County",us
+1975,"Geneseo, Livingston County",us
+1976,"Bangor, Penobscot County",us
+1977,"Plymouth, Hennepin County",us
+1978,"Vestal, Broome County",us
+1979,"Jackson, Madison County",us
+1980,"Pittsburgh, Allegheny County",us
+1981,"Iowa City, Johnson County",us
+1982,"Knoxville, Knox County",us
+1983,"Gary, Lake County",us
+1984,"Kalamazoo, Kalamazoo County",us
+1985,"Chandler, Maricopa County",us
+1986,"Pittsburg, Crawford County",us
+1987,"Alamogordo, Otero County",us
+1988,"North Dartmouth, Bristol County",us
+1989,"Allentown, Lehigh County",us
+1990,"Billings, Yellowstone County",us
+1991,"Clinton, Clinton County",us
+1992,"Melbourne, Brevard County",us
+1993,"West Jordan, Salt Lake County",us
+1994,"Scottsdale, Maricopa County",us
+1995,"Twinsburg, Summit County",us
+1996,"Agawam, Hampden County",us
+1997,"Fort Lee, Bergen County",us
+1998,"Oakford, Howard County",us
+1999,"Claycomo, Clay County",us
+2000,"North Bay Shore, Suffolk County",us
+2001,"Virginia, US",us
+2002,"Lincolnshire Woods, Lake County",us
+2003,"South Norfolk, Chesapeake City",us
+2004,"Fort Sam Houston, Bexar County",us
+2005,"Cheektowaga, Erie County",us
+2006,"Oakdale, Stanislaus County",us
+2007,"Atlanta, Fulton County",us
+2008,"Durham, Durham County",us
+2009,"White Plains, Westchester County",us
+2010,"Oak Brook Mall, DuPage County",us
+2011,"Alcoa, Blount County",us
+2012,"Granite, Salt Lake County",us
+2013,"Indianapolis, Marion County",us
+2014,"Acton, Marion County",us
+2015,"Savage, Anne Arundel County",us
+2016,"Lombard, DuPage County",us
+2017,"Gurnee, Lake County",us
+2018,"Essex, Baltimore County",us
+2019,"Costa Mesa, Orange County",us
+2020,"Bowdon Junction, Carroll County",us
+2021,"Waldon, Contra Costa County",us
+2022,"Ridgeside, Hamilton County",us
+2023,"Conyers, Rockdale County",us
+2024,"Redmond, King County",us
+2025,"Bluffton, Beaufort County",us
+2026,"Lebanon, Warren County",us
+2027,"Henrietta, Monroe County",us
+2028,"Santa Ana, Orange County",us
+2029,"Somerset, Somerset County",us
+2030,"Uptown, Marion County",us
+2031,"Detroit, Wayne County",us
+2032,"Stillwater, Washington County",us
+2033,"Washington, D.C., US",us
+2034,"South Waltham, Middlesex County",us
+2035,"Noble, Cleveland County",us
+2036,"Wilson, Ellsworth County",us
+2037,"North Hill, Summit County",us
+2038,"Custom House, Orleans Parish",us
+2039,"Wilmington, New Castle County",us
+2040,"Cleveland Heights, Cuyahoga County",us
+2041,"Urbanización El Vedado, San Juan",us
+2042,"Goodyear, Maricopa County",us
+2043,"Fort Mill, York County",us
+2044,"Pierre, Hughes County",us
+2045,"Clinton, Hinds County",us
+2046,"Benson, Douglas County",us
+2047,"Bloomfield, Allegheny County",us
+2048,"Carlsbad, San Diego County",us
+2049,"Addison, DuPage County",us
+2050,"Kihei, Maui",us
+2051,"Teterboro, Bergen County",us
+2052,"Fayetteville, Fayette County",us
+2053,"Miramar, Broward County",us
+2054,"Stockholm, Willacy County",us
+2055,"Hawthorne, Los Angeles County",us
+2056,"Richardson, Dallas",us
+2057,"Guadalupe, Maricopa County",us
+2058,"Asheboro, Randolph County",us
+2059,"New Albany, Franklin County",us
+2060,"Decatur, DeKalb County",us
+2061,"Salisbury, Wicomico County",us
+2062,"Harahan, Jefferson Parish",us
+2063,"West Gulfport, Gulfport",us
+2064,"Brook Park, Cuyahoga County",us
+2065,"Palm Beach Gardens, Palm Beach County",us
+2066,"Glendale, Milwaukee County",us
+2067,"Panama City, Bay County",us
+2068,"Hampton Roads, Hampton City",us
+2069,"Kiln, Hancock County",us
+2070,"Lake Nepessing, Lapeer County",us
+2071,"Chantilly, Fairfax County",us
+2072,"Camp Lejeune, Onslow County",us
+2073,"Lees Summit, Jackson County",us
+2074,"James Island, Charleston County",us
+2075,"Newburgh Heights, Cuyahoga County",us
+2076,"Ysleta Del Sur Pueblo, El Paso County",us
+2077,"Corbin, Whitley County",us
+2078,"Oakland Park, Broward County",us
+2079,"Blue Hills, Hartford County",us
+2080,"Centennial, Arapahoe County",us
+2081,"Bethpage, Nassau County",us
+2082,"Marigold, San Bernardino County",us
+2083,"Maryland, Anne Arundel County",us
+2084,"Yuba City, Sutter County",us
+2085,"Newport, Newport County",us
+2086,"El Segundo, Los Angeles County",us
+2087,"Coral Springs, Broward County",us
+2088,"Wisconsin, US",us
+2089,"Texas, US",us
+2090,"Berkeley Heights, Union County",us
+2091,"Milton, Fulton County",us
+2092,"Tyler, Smith County",us
+2093,"Tallahassee, Leon County",us
+2094,"Notre Dame, St. Joseph County",us
+2095,"East Irvine, Orange County",us
+2096,"West Pittston, Luzerne County",us
+2097,"California, US",us
+2098,"Center Line, Macomb County",us
+2099,"Jacksonville, Duval County",us
+2100,"Grawn, Grand Traverse County",us
+2101,"San Antonio, Bexar County",us
+2102,"North Bethesda, Montgomery County",us
+2103,"Beckley, Raleigh County",us
+2104,"Redlands, San Bernardino County",us
+2105,"Las Vegas, Clark County",us
+2106,"Redding, Shasta County",us
+2107,"San Francisco, California",us
+2108,"New Jersey, US",us
+2109,"West Lake Hills, Travis County",us
+2110,"West Layton, Davis County",us
+2111,"Groveport, Franklin County",us
+2112,"Whippany, Morris County",us
+2113,"Johns Creek, Fulton County",us
+2114,"New York City, New York",us
+2115,"Ashburn, Loudoun County",us
+2116,"East Hanover, Morris County",us
+2117,"Capshaw, Limestone County",us
+2118,"Corinth, Denton County",us
+2119,"Lexington, Middlesex County",us
+2120,"Hillcrest Heights, Prince George's County",us
+2121,"Alexandria, Alexandria City",us
+2122,"Dayton, Montgomery County",us
+2123,"Eglin Air Force Base, Okaloosa County",us
+2124,"Somerset, Montgomery County",us
+2125,"Dallas, Texas",us
+2126,"Arlington, Arlington County",us
+2127,"Anne Arundel County, Maryland",us
+2128,"Watervliet, Albany County",us
+2129,"Kirkland, King County",us
+2130,"Pinehurst, Snohomish County",us
+2131,"Arvada, Jefferson County",us
+2132,"Pukalani Maui, Maui",us
+2133,"Mount Clemens, Macomb County",us
+2134,"Lexington Park, St. Mary's County",us
+2135,"Kaneohe, Honolulu",us
+2136,"Haymount, Cumberland County",us
+2137,"Fort Belvoir, Fairfax County",us
+2138,"Waukesha, Waukesha County",us
+2139,"Albany, Albany County",us
+2140,"The Woodlands, Montgomery County",us
+2141,"Nacogdoches, Nacogdoches County",us
+2142,"Roswell, Chaves County",us
+2143,"Edmond, Oklahoma County",us
+2144,"Dover, Kent County",us
+2145,"Paterson, Passaic County",us
+2146,"Southaven, DeSoto County",us
+2147,"Edison, Middlesex County",us
+2148,"Toledo, Lucas County",us
+2149,"Flushing, Queens",us
+2150,"Columbus, Muscogee County",us
+2151,"Sioux City, Woodbury County",us
+2152,"Cranston, Providence County",us
+2153,"Lawrenceville, Gwinnett County",us
+2154,"Little Rock, Pulaski County",us
+2155,"Tacoma, Pierce County",us
+2156,"Hampton City, Virginia",us
+2157,"Arcata, Humboldt County",us
+2158,"Rexburg, Madison County",us
+2159,"Auburn, Androscoggin County",us
+2160,"Dekalb, DeKalb County",us
+2161,"Barre, Washington County",us
+2162,"Bloomsburg, Columbia County",us
+2163,"Pawtucket, Providence County",us
+2164,"Hialeah, Miami-Dade County",us
+2165,"Harrisburg, Dauphin County",us
+2166,"Baton Rouge, East Baton Rouge Parish",us
+2167,"Wilmington, New Hanover County",us
+2168,"Racine, Racine County",us
+2169,"Parkersburg, Wood County",us
+2170,"Lexington, Fayette County",us
+2171,"Cambridge, Middlesex County",us
+2172,"Syracuse, Onondaga County",us
+2173,"Kansas City, Wyandotte County",us
+2174,"Bowling Green, Wood County",us
+2175,"Des Moines, Polk County",us
+2176,"Edwardsville, Madison County",us
+2177,"Erie, Erie County",us
+2178,"Springfield, Greene County",us
+2179,"Macon, Bibb County",us
+2180,"Terre Haute, Vigo County",us
+2181,"Biloxi, Harrison County",us
+2182,"Bellevue, Sarpy County",us
+2183,"Helena, Lewis and Clark County",us
+2184,"Covington, Kenton County",us
+2185,"Concord, Merrimack County",us
+2186,"Mesa, Maricopa County",us
+2187,"Lincoln, Lancaster County",us
+2188,"Greeley, Weld County",us
+2189,"Seattle, King County",us
+2190,"Chattanooga, Hamilton County",us
+2191,"Menomonie, Dunn County",us
+2192,"Grand Forks, Grand Forks County",us
+2193,"Huntsville, Walker County",us
+2194,"Hot Springs, Garland County",us
+2195,"Bozeman, Gallatin County",us
+2196,"Rock Springs, Sweetwater County",us
+2197,"Huntington, Cabell County",us
+2198,"Idaho Falls, Bonneville County",us
+2199,"Adelphi, Prince George's County",us
+2200,"Beaumont, Jefferson County",us
+2201,"Bellingham, Whatcom County",us
+2202,"Montpelier, Washington County",us
+2203,"Bronx, New York City",us
+2204,"Henderson, Clark County",us
+2205,"Brookings, Brookings County",us
+2206,"Stamford, Fairfield County",us
+2207,"Biddeford, York County",us
+2208,"Aurora, Kane County",us
+2209,"Rutland, Rutland County",us
+2210,"Valdosta, Lowndes County",us
+2211,"Ogden, Weber County",us
+2212,"Madison, Dane County",us
+2213,"Danbury, Fairfield County",us
+2214,"Juneau, Alaska",us
+2215,"Grand Island, Hall County",us
+2216,"Lynchburg, Lynchburg City",us
+2217,"Herndon, Fairfax County",us
+2218,"North Springfield, Fairfax County",us
+2219,"Edgewater Park, Burlington County",us
+2220,"Spring Hill, Maury County",us
+2221,"Pleasant Prairie, Kenosha County",us
+2222,"Ankeny, Polk County",us
+2223,"Boston, Suffolk County",us
+2224,"Cammack Village, Pulaski County",us
+2225,"Ny State Campus, Albany County",us
+2226,"Carson Mall, Carson City",us
+2227,"Tumwater, Thurston County",us
+2228,"Bonnie, Utah County",us
+2229,"La Cienga, Santa Fe County",us
+2230,"Boise, Ada County",us
+2231,"Five Points, Wake County",us
+2232,"Saint Paul, Ramsey County",us
+2233,"Archer, Laramie County",us
+2234,"Pilgrim, Bronx",us
+2235,"New Ross, Montgomery County",us
+2236,"Camarillo, Ventura County",us
+2237,"Olivia, Harnett County",us
+2238,"Painted Post, Steuben County",us
+2239,"Dalton, Whitfield County",us
+2240,"Livonia, Wayne County",us
+2241,"Altoona, Eau Claire County",us
+2242,"Zawiercie, śląskie",pl
+2243,"Legnica, dolnośląskie",pl
+2244,"Pabianice, łódzkie",pl
+2245,"Suwałki, podlaskie",pl
+2246,"Kąty Wrocławskie, dolnośląskie",pl
+2247,"Brześć Kujawski, kujawsko-pomorskie",pl
+2248,"Łazy, zachodniopomorskie",pl
+2249,"Ryki, lubelskie",pl
+2250,"Komorniki, wielkopolskie",pl
+2251,"Trójmiasto, pomorskie",pl
+2252,"Włocławek, kujawsko-pomorskie",pl
+2253,"Inowrocław, kujawsko-pomorskie",pl
+2254,"Bolesławiec, dolnośląskie",pl
+2255,"Wiskitki, mazowieckie",pl
+2256,"Jelenia Góra, dolnośląskie",pl
+2257,"Mielec, podkarpackie",pl
+2258,"Konstancin-Jeziorna, mazowieckie",pl
+2259,"Bielsko-Biała, śląskie",pl
+2260,"Rogoźno, wielkopolskie",pl
+2261,"Witnica, lubuskie",pl
+2262,"Szydłowiec, mazowieckie",pl
+2263,"Ząbkowice Śląskie, dolnośląskie",pl
+2264,"Tarnowo Podgórne, wielkopolskie",pl
+2265,"Skarbimierz, opolskie",pl
+2266,"Swarzędz, wielkopolskie",pl
+2267,"Piaseczno, mazowieckie",pl
+2268,"Tarnów, małopolskie",pl
+2269,Derby,gb
+2270,Cirencester,gb
+2271,Bicester,gb
+2272,Pinner,gb
+2273,Daventry,gb
+2274,Bristol,gb
+2275,Cambridge,gb
+2276,Milton Keynes,gb
+2277,Belfast,gb
+2278,Bromley,gb
+2279,Teignmouth,gb
+2280,Central London,gb
+2281,Peterborough,gb
+2282,Borehamwood,gb
+2283,Hertfordshire,gb
+2284,Farnham,gb
+2285,Luton,gb
+2286,Leighton Buzzard,gb
+2287,Sandbach,gb
+2288,Northampton,gb
+2289,Bedford,gb
+2290,Camberley,gb
+2291,Marlborough,gb
+2292,Bishop's Stortford,gb
+2293,Hereford,gb
+2294,Greater Manchester,gb
+2295,Yeovil,gb
+2296,Wilmslow,gb
+2297,Cheltenham,gb
+2298,East London,gb
+2299,Birmingham,gb
+2300,Great Missenden,gb
+2301,West Yorkshire,gb
+2302,Andover,gb
+2303,Penrith,gb
+2304,Liverpool,gb
+2305,Basingstoke,gb
+2306,Accrington,gb
+2307,Salcombe,gb
+2308,Attleborough,gb
+2309,Esher,gb
+2310,Tonbridge,gb
+2311,Hyde,gb
+2312,South West London,gb
+2313,Bellshill,gb
+2314,Mitcham,gb
+2315,Brighton,gb
+2316,Newport,gb
+2317,South East London,gb
+2318,West Dunbartonshire,gb
+2319,Merseyside,gb
+2320,Millom,gb
+2321,North Shields,gb
+2322,Burnham-On-Sea,gb
+2323,Grange-Over-Sands,gb
+2324,Stafford,gb
+2325,Minehead,gb
+2326,Chesterfield,gb
+2327,Barnetby,gb
+2328,Wimborne,gb
+2329,Stockport,gb
+2330,Craigavon,gb
+2331,Bognor Regis,gb
+2332,Nuneaton,gb
+2333,Colchester,gb
+2334,Johnstone,gb
+2335,Kirklinton,gb
+2336,Coatbridge,gb
+2337,Stirling,gb
+2338,Maidenhead,gb
+2339,Leicester,gb
+2340,Carluke,gb
+2341,Tring,gb
+2342,Larkhall,gb
+2343,Irvine,gb
+2344,Blandford Forum,gb
+2345,Isle Of Wight,gb
+2346,Scotland,gb
+2347,Christchurch,gb
+2348,Newhaven,gb
+2349,Weston-Super-Mare,gb
+2350,Cullompton,gb
+2351,Ramsey,gb
+2352,Carnforth,gb
+2353,Bushey,gb
+2354,Chipping Norton,gb
+2355,Ryde,gb
+2356,Hampshire,gb
+2357,Lochgilphead,gb
+2358,Perth,gb
+2359,Market Rasen,gb
+2360,Inverclyde,gb
+2361,Horsham,gb
+2362,Lincoln,gb
+2363,Ingatestone,gb
+2364,Kirkby-In-Furness,gb
+2365,Arbroath,gb
+2366,Burnley,gb
+2367,Manchester,gb
+2368,Tewkesbury,gb
+2369,Wigan,gb
+2370,St. Albans,gb
+2371,Inverness,gb
+2372,Swansea,gb
+2373,Glenrothes,gb
+2374,Downpatrick,gb
+2375,Smethwick,gb
+2376,Corby,gb
+2377,Wellingborough,gb
+2378,Ilford,gb
+2379,Northallerton,gb
+2380,Brackley,gb
+2381,Preston,gb
+2382,Cumbria,gb
+2383,Aldershot,gb
+2384,Nottingham,gb
+2385,Thatcham,gb
+2386,Essex,gb
+2387,Edinburgh,gb
+2388,Maidstone,gb
+2389,Melton Mowbray,gb
+2390,Chester,gb
+2391,Hounslow,gb
+2392,Burton-On-Trent,gb
+2393,Oxfordshire,gb
+2394,Aberdeen,gb
+2395,East Dunbartonshire,gb
+2396,Wadhurst,gb
+2397,Dorset,gb
+2398,London,gb
+2399,Crook,gb
+2400,Leeds,gb
+2401,Conwy County,gb
+2402,Slough,gb
+2403,Lancaster,gb
+2404,Nottinghamshire,gb
+2405,Dingwall,gb
+2406,Malvern,gb
+2407,Wormit,gb
+2408,Morecambe,gb
+2409,West London,gb
+2410,Surbiton,gb
+2411,Wales,gb
+2412,Bexleyheath,gb
+2413,Lewes,gb
+2414,Wakefield,gb
+2415,Frodsham,gb
+2416,Cheshire,gb
+2417,Inverurie,gb
+2418,Doncaster,gb
+2419,South Yorkshire,gb
+2420,Northumberland,gb
+2421,Leamington Spa,gb
+2422,Lochgelly,gb
+2423,Surrey,gb
+2424,Newry,gb
+2425,Shotts,gb
+2426,Witham,gb
+2427,Altrincham,gb
+2428,Winchester,gb
+2429,Thetford,gb
+2430,Rugby,gb
+2431,Hewish,gb
+2432,Kilmarnock,gb
+2433,Glasgow,gb
+2434,Blackpool,gb
+2435,King's Lynn,gb
+2436,Alnwick,gb
+2437,Trowbridge,gb
+2438,West Midlands,gb
+2439,Somerset,gb
+2440,Wooburn Green,gb
+2441,Northern Ireland,gb
+2442,Dunstable,gb
+2443,Strathaven,gb
+2444,Bolton,gb
+2445,West Thurrock,gb
+2446,Hull,gb
+2447,Cranbrook,gb
+2448,West Sussex,gb
+2449,Eastern England,gb
+2450,Gloucestershire,gb
+2451,Southampton,gb
+2452,Cornwall,gb
+2453,Windsor,gb
+2454,Lutterworth,gb
+2455,North West London,gb
+2456,Buckinghamshire,gb
+2457,Towcester,gb
+2458,Kirkcaldy,gb
+2459,Pontypool,gb
+2460,Kent,gb
+2461,Aylesbury,gb
+2462,Burlton,gb
+2463,Port Glasgow,gb
+2464,Brampton,gb
+2465,County Durham,gb
+2466,Symington,gb
+2467,Mablethorpe,gb
+2468,Norfolk,gb
+2469,Croydon,gb
+2470,Scarborough,gb
+2471,Bungay,gb
+2472,Mansfield,gb
+2473,Shetland Islands,gb
+2474,Reading,gb
+2475,Truro,gb
+2476,Northamptonshire,gb
+2477,Highland,gb
+2478,Renfrewshire,gb
+2479,Glasgow City Centre,gb
+2480,Hamilton,gb
+2481,Leicestershire,gb
+2482,Morriston,gb
+2483,Worthing,gb
+2484,Potters Bar,gb
+2485,Alness,gb
+2486,Paisley,gb
+2487,Ongar,gb
+2488,North London,gb
+2489,Feltham,gb
+2490,Malton,gb
+2491,Halifax,gb
+2492,Warwick,gb
+2493,South West England,gb
+2494,Pontefract,gb
+2495,Cardiff,gb
+2496,South Lanarkshire,gb
+2497,Sandown,gb
+2498,Exeter,gb
+2499,Barnsley,gb
+2500,Chard,gb
+2501,Gateshead,gb
+2502,Worsley,gb
+2503,Woking,gb
+2504,Flintshire,gb
+2505,Derbyshire,gb
+2506,Evesham,gb
+2507,Lincolnshire,gb
+2508,Lancashire,gb
+2509,Ely,gb
+2510,Oxford,gb
+2511,Biggleswade,gb
+2512,Yorkshire And The Humber,gb
+2513,Exmouth,gb
+2514,Taunton,gb
+2515,Bath & N E Somerset,gb
+2516,Malpas,gb
+2517,Welwyn,gb
+2518,East Midlands,gb
+2519,Hinckley,gb
+2520,Bradford,gb
+2521,Sittingbourne,gb
+2522,West Berkshire,gb
+2523,Devizes,gb
+2524,Windsor & Maidenhead,gb
+2525,North Yorkshire,gb
+2526,Shropshire,gb
+2527,Wiltshire,gb
+2528,Warwickshire,gb
+2529,Cardiff County,gb
+2530,Devon,gb
+2531,North Somerset,gb
+2532,Worcestershire,gb
+2533,Bedfordshire,gb
+2534,Ringwood,gb
+2535,Cambridgeshire,gb
+2536,Boston,gb
+2537,Airdrie,gb
+2538,Channel Isles,gb
+2539,Hersham,gb
+2540,Baldock,gb
+2541,South East England,gb
+2542,Caerphilly County,gb
+2543,Tetbury,gb
+2544,County Down,gb
+2545,Cowbridge,gb
+2546,Guildford,gb
+2547,Poole,gb
+2548,Berkshire,gb
+2549,St. Helens,gb
+2550,Kidderminster,gb
+2551,Whitehaven,gb
+2552,East Sussex,gb
+2553,Castleford,gb
+2554,Musselburgh,gb
+2555,Gravesend,gb
+2556,Redditch,gb
+2557,Staffordshire,gb
+2558,Skipton,gb
+2559,Stanley,gb
+2560,Polegate,gb
+2561,Tyne & Wear,gb
+2562,Sheffield,gb
+2563,Liss,gb
+2564,Saltash,gb
+2565,Aberdeenshire,gb
+2566,Portsmouth,gb
+2567,Ipswich,gb
+2568,Great Yarmouth,gb
+2569,Salford,gb
+2570,Skegness,gb
+2571,North Lincolnshire,gb
+2572,Perth & Kinross,gb
+2573,Broughty Ferry,gb
+2574,Rushden,gb
+2575,Carmarthenshire,gb
+2576,East Riding Of Yorkshire,gb
+2577,Uxbridge,gb
+2578,Tadcaster,gb
+2579,West Lothian,gb
+2580,County Stirling,gb
+2581,Bangor,gb
+2582,Lymington,gb
+2583,Almondsbury,gb
+2584,Mauchline,gb
+2585,Stockton-On-Tees,gb
+2586,Leven,gb
+2587,Romford,gb
+2588,Norwich,gb
+2589,Rochdale,gb
+2590,Folkestone,gb
+2591,Crewe,gb
+2592,North East Lincolnshire,gb
+2593,Bingley,gb
+2594,Maybole,gb
+2595,Stone,gb
+2596,Llanelli,gb
+2597,North Lanarkshire,gb
+2598,Launceston,gb
+2599,Sutton,gb
+2600,Sleaford,gb
+2601,Crawley,gb
+2602,Leominster,gb
+2603,Peterhead,gb
+2604,March,gb
+2605,Llanidloes,gb
+2606,Epsom,gb
+2607,Ector County,us
+2608,Guilford County,us
+2609,Manatee County,us
+2610,Northampton County,us
+2611,Denver,us
+2612,Rockingham County,us
+2613,Steuben County,us
+2614,Polk County,us
+2615,Hardin County,us
+2616,Seminole County,us
+2617,Ward County,us
+2618,Lee County,us
+2619,Alameda County,us
+2620,Washington County,us
+2621,Weld County,us
+2622,Taylor County,us
+2623,Larimer County,us
+2624,Boise County,us
+2625,King County,us
+2626,Ozaukee County,us
+2627,Dane County,us
+2628,Gwinnett County,us
+2629,Clark County,us
+2630,Delaware County,us
+2631,Cherokee County,us
+2632,Chester County,us
+2633,Dawson County,us
+2634,Houston,us
+2635,Minnehaha County,us
+2636,Pinellas County,us
+2637,Adams County,us
+2638,Harris County,us
+2639,Spencer County,us
+2640,Roosevelt County,us
+2641,Santa Rosa County,us
+2642,Floyd County,us
+2643,Spokane County,us
+2644,Tom Green County,us
+2645,Dakota County,us
+2646,Hamilton County,us
+2647,Hall County,us
+2648,Henry County,us
+2649,Charlotte County,us
+2650,Collin County,us
+2651,Saint Louis County,us
+2652,El Paso County,us
+2653,Roane County,us
+2654,Miller County,us
+2655,Bexar County,us
+2656,Pueblo County,us
+2657,Cabarrus County,us
+2658,Suffolk County,us
+2659,Warrick County,us
+2660,Jackson County,us
+2661,Johnson County,us
+2662,Lawrence County,us
+2663,Rockcastle County,us
+2664,McClain County,us
+2665,Nassau County,us
+2666,Hillsborough County,us
+2667,Montgomery County,us
+2668,Missoula County,us
+2669,Fairfield County,us
+2670,Whiteside County,us
+2671,Pinellas Couny,us
+2672,Palm Beach County,us
+2673,Summit County,us
+2674,Callaway County,us
+2675,Middlesex County,us
+2676,Robertson County,us
+2677,Upshur County,us
+2678,Ashtabula County,us
+2679,Riverside County,us
+2680,Howard County,us
+2681,Fairbanks North Star,us
+2682,Burlington County,us
+2683,Bernalillo County,us
+2684,Orange County,us
+2685,Muskogee County,us
+2686,Tulsa County,us
+2687,Coweta County,us
+2688,Marathon County,us
+2689,Arapahoe County,us
+2690,Baltimore,us
+2691,Pasco County,us
+2692,Walton County,us
+2693,Osceola County,us
+2694,Mississippi County,us
+2695,Martin County,us
+2696,Darlington County,us
+2697,Williamson County,us
+2698,Warren County,us
+2699,Snohomish County,us
+2700,Allen County,us
+2701,Saint Croix County,us
+2702,Tarrant County,us
+2703,Jefferson Parish,us
+2704,Centennial,us
+2705,Chautauqua County,us
+2706,Madison County,us
+2707,San Diego County,us
+2708,Utah County,us
+2709,Wharton County,us
+2710,Henderson County,us
+2711,Lake County,us
+2712,Arlington County,us
+2713,Somerset County,us
+2714,Fulton County,us
+2715,Travis County,us
+2716,Brooklyn,us
+2717,Weakley County,us
+2718,Darke County,us
+2719,McNairy County,us
+2720,Garland County,us
+2721,Bronx,us
+2722,Duplin County,us
+2723,Union County,us
+2724,Scott County,us
+2725,Merced County,us
+2726,DeSoto County,us
+2727,Washtenaw County,us
+2728,Sarasota County,us
+2729,Hudson County,us
+2730,Jefferson County,us
+2731,Lynn County,us
+2732,Los Angeles County,us
+2733,Oswego County,us
+2734,Uvalde County,us
+2735,Oakland County,us
+2736,Hancock County,us
+2737,Mobile County,us
+2738,Clinton County,us
+2739,Dauphin County,us
+2740,Pulaski County,us
+2741,Avoyelles Parish,us
+2742,Bartholomew County,us
+2743,Anderson County,us
+2744,Morgan County,us
+2745,Harrison County,us
+2746,Newberry County,us
+2747,Maricopa County,us
+2748,Livingston County,us
+2749,Mahoning County,us
+2750,Wilkes County,us
+2751,Hunterdon County,us
+2752,Doña Ana County,us
+2753,Rapides Parish,us
+2754,Douglas County,us
+2755,Dallas,us
+2756,Defiance County,us
+2757,Lafayette Parish,us
+2758,Miami-Dade County,us
+2759,Livingston Parish,us
+2760,Franklin County,us
+2761,Hennepin County,us
+2762,Hawaii,us
+2763,Monongalia County,us
+2764,Spartanburg County,us
+2765,Westchester County,us
+2766,Miami County,us
+2767,Wexford County,us
+2768,Sabine County,us
+2769,Sumner County,us
+2770,Wichita County,us
+2771,Henrico County,us
+2772,Eaton County,us
+2773,Mesa County,us
+2774,McLennan County,us
+2775,Halifax County,us
+2776,Saint Clair County,us
+2777,Sullivan County,us
+2778,Macoupin County,us
+2779,Columbus County,us
+2780,Cook County,us
+2781,Shelby County,us
+2782,Monterey County,us
+2783,Greene County,us
+2784,Cascade County,us
+2785,Rutherford County,us
+2786,Luzerne County,us
+2787,Saline County,us
+2788,Seneca County,us
+2789,Monroe County,us
+2790,DuPage County,us
+2791,Wayne County,us
+2792,Greenup County,us
+2793,Crow Wing County,us
+2794,Cumberland County,us
+2795,Sumter County,us
+2796,Logan County,us
+2797,Cuyahoga County,us
+2798,Matanuska-Susitna,us
+2799,Imperial County,us
+2800,Athens County,us
+2801,Daviess County,us
+2802,Cayuga County,us
+2803,Grady County,us
+2804,Shawnee County,us
+2805,Anchorage,us
+2806,Queens,us
+2807,Canadian County,us
+2808,Kent County,us
+2809,Charleston County,us
+2810,Elbert County,us
+2811,Bastrop County,us
+2812,Broward County,us
+2813,Greenwood County,us
+2814,Del Norte County,us
+2815,Orleans Parish,us
+2816,Isanti County,us
+2817,Kern County,us
+2818,Amador County,us
+2819,Allegheny County,us
+2820,Sherburne County,us
+2821,Fort Bend County,us
+2822,Pima County,us
+2823,Brazoria County,us
+2824,Milwaukee County,us
+2825,Charles County,us
+2826,Fairfax County,us
+2827,Coleman County,us
+2828,Woodbridge,us
+2829,Wood County,us
+2830,Westmoreland County,us
+2831,Laurens County,us
+2832,Chatham County,us
+2833,Marion County,us
+2834,Cass County,us
+2835,Carroll County,us
+2836,York County,us
+2837,Colorado County,us
+2838,Worcester County,us
+2839,Garfield County,us
+2840,Chattooga County,us
+2841,Fresno County,us
+2842,Monmouth County,us
+2843,Maui,us
+2844,Carver County,us
+2845,Cleveland County,us
+2846,Sedgwick County,us
+2847,Hutchinson County,us
+2848,Benton County,us
+2849,Aiken County,us
+2850,Butler County,us
+2851,San Bernardino County,us
+2852,Salt Lake County,us
+2853,New Haven County,us
+2854,Lehigh County,us
+2855,Mecklenburg County,us
+2856,Prince George's County,us
+2857,Valencia County,us
+2858,Garrard County,us
+2859,Campbell County,us
+2860,Frederick County,us
+2861,McCulloch County,us
+2862,Brazos County,us
+2863,Sandoval County,us
+2864,Baltimore County,us
+2865,Kalamazoo County,us
+2866,Lexington County,us
+2867,Cole County,us
+2868,Hinds County,us
+2869,Davidson County,us
+2870,Comal County,us
+2871,Lancaster County,us
+2872,Lamar County,us
+2873,Chenango County,us
+2874,Blue Earth County,us
+2875,Pickaway County,us
+2876,Mercer County,us
+2877,Morton County,us
+2878,Alachua County,us
+2879,Forsyth County,us
+2880,Edgecombe County,us
+2881,Bay County,us
+2882,Ottawa County,us
+2883,Tillman County,us
+2884,Leelanau County,us
+2885,Ashland County,us
+2886,Richmond County,us
+2887,Ellis County,us
+2888,Kanawha County,us
+2889,Alamance County,us
+2890,St. John the Baptist Parish,us
+2891,Coles County,us
+2892,Fannin County,us
+2893,Buncombe County,us
+2894,Lewis and Clark County,us
+2895,Aransas County,us
+2896,Burleigh County,us
+2897,Onondaga County,us
+2898,Jay County,us
+2899,Houston County,us
+2900,Russell County,us
+2901,Hampden County,us
+2902,Boulder County,us
+2903,Burke County,us
+2904,Berkeley County,us
+2905,McHenry County,us
+2906,Escambia County,us
+2907,Belmont County,us
+2908,Cullman County,us
+2909,Caldwell County,us
+2910,Rockbridge County,us
+2911,Ramsey County,us
+2912,Champaign County,us
+2913,Berks County,us
+2914,Haywood County,us
+2915,Lonoke County,us
+2916,Austin County,us
+2917,Contra Costa County,us
+2918,Okeechobee County,us
+2919,Terrell County,us
+2920,Schuylkill County,us
+2921,Mille Lacs County,us
+2922,Delta County,us
+2923,Yuma County,us
+2924,Providence County,us
+2925,DeKalb County,us
+2926,Stephens County,us
+2927,Menard County,us
+2928,Gadsden County,us
+2929,Cochise County,us
+2930,Wake County,us
+2931,Tooele County,us
+2932,Meigs County,us
+2933,Okaloosa County,us
+2934,Collier County,us
+2935,Cheshire County,us
+2936,Clear Creek County,us
+2937,Sauk County,us
+2938,Grant Parish,us
+2939,Bucks County,us
+2940,Grundy County,us
+2941,Craighead County,us
+2942,Antrim County,us
+2943,Horry County,us
+2944,Wright County,us
+2945,Dallam County,us
+2946,Pickens County,us
+2947,Santa Barbara County,us
+2948,Van Wert County,us
+2949,Grafton County,us
+2950,Kendall County,us
+2951,Vanderburgh County,us
+2952,Midland County,us
+2953,Grand Traverse County,us
+2954,Sussex County,us
+2955,Boone County,us
+2956,McLean County,us
+2957,Olmsted County,us
+2958,Davis County,us
+2959,Grant County,us
+2960,Marshall County,us
+2961,Lubbock County,us
+2962,Ascension Parish,us
+2963,Lenawee County,us
+2964,Rock Island County,us
+2965,Moore County,us
+2966,Concho County,us
+2967,Mitchell County,us
+2968,Leavenworth County,us
+2969,Clay County,us
+2970,Weber County,us
+2971,Natchitoches Parish,us
+2972,Gibson County,us
+2973,Augusta County,us
+2974,Walker County,us
+2975,Greenville County,us
+2976,Hartley County,us
+2977,Oldham County,us
+2978,Northumberland County,us
+2979,Brevard County,us
+2980,Atkinson County,us
+2981,Cleburne County,us
+2982,Bell County,us
+2983,Winnebago County,us
+2984,Lycoming County,us
+2985,Whatcom County,us
+2986,Hot Spring County,us
+2987,Bonneville County,us
+2988,Allegany County,us
+2989,Multnomah County,us
+2990,Lamb County,us
+2991,Macon County,us
+2992,San Francisco,us
+2993,Ocean County,us
+2994,Cameron County,us
+2995,Poinsett County,us
+2996,Creek County,us
+2997,Lorain County,us
+2998,Elmore County,us
+2999,Erie County,us
+3000,Muskegon County,us
+3001,Clackamas County,us
+3002,La Crosse County,us
+3003,LaSalle Parish,us
+3004,Des Moines County,us
+3005,Calhoun County,us
+3006,Emanuel County,us
+3007,San Joaquin County,us
+3008,San Juan,us
+3009,Rains County,us
+3010,Charlevoix County,us
+3011,Anoka County,us
+3012,Catawba County,us
+3013,Sonoma County,us
+3014,Bennington County,us
+3015,Wicomico County,us
+3016,Box Elder County,us
+3017,Woodbury County,us
+3018,Dubuque County,us
+3019,Norfolk County,us
+3020,Brown County,us
+3021,Ware County,us
+3022,Androscoggin County,us
+3023,Le Sueur County,us
+3024,Kankakee County,us
+3025,Tazewell County,us
+3026,Cheatham County,us
+3027,Ogle County,us
+3028,Schenectady County,us
+3029,Crane County,us
+3030,Chelan County,us
+3031,Chittenden County,us
+3032,LaSalle County,us
+3033,Niagara County,us
+3034,Yellowstone County,us
+3035,Oconee County,us
+3036,Santa Clara County,us
+3037,St. Joseph County,us
+3038,Wilbarger County,us
+3039,Strafford County,us
+3040,Atchison County,us
+3041,Transylvania County,us
+3042,Hopewell City,us
+3043,Dooly County,us
+3044,mazowieckie,pl
+3045,łódzkie,pl
+3046,śląskie,pl
+3047,małopolskie,pl
+3048,warmińsko-mazurskie,pl
+3049,kujawsko-pomorskie,pl
+3050,dolnośląskie,pl
+3051,Trójmiasto,pl
+3052,wielkopolskie,pl
+3053,opolskie,pl
+3054,zachodniopomorskie,pl
+3055,podlaskie,pl
+3056,lubuskie,pl
+3057,pomorskie,pl
+3058,podkarpackie,pl
+3059,lubelskie,pl
+3060,świętokrzyskie,pl
+3061,Scunthorpe,gb
+3062,Horley,gb
+3063,County Antrim,gb
+3064,Newry & Mourne,gb
+3065,Knaresborough,gb
+3066,Newtownabbey,gb
+3067,Huntingdon,gb
+3068,St. Andrews,gb
+3069,Salisbury,gb
+3070,Harrogate,gb
+3071,Stourbridge,gb
+3072,Diss,gb
+3073,East Lothian,gb
+3074,Wotton-Under-Edge,gb
+3075,County Tyrone,gb
+3076,Rotherham,gb
+3077,Suffolk,gb
+3078,Woolpit,gb
+3079,Telford,gb
+3080,Rutland,gb
+3081,Market Drayton,gb
+3082,Haywards Heath,gb
+3083,Argyll & Bute,gb
+3084,Milton Bridge,gb
+3085,Clitheroe,gb
+3086,Rickmansworth,gb
+3087,Montrose,gb
+3088,Angus,gb
+3089,North West England,gb
+3090,Herefordshire,gb
+3091,Sunderland,gb
+3092,Ashbourne,gb
+3093,Halesowen,gb
+3094,West Bromwich,gb
+3095,Chilworth,gb
+3096,Macclesfield,gb
+3097,Solihull,gb
+3098,High Wycombe,gb
+3099,Marlow,gb
+3100,Deal,gb
+3101,Wrexham,gb
+3102,Kidlington,gb
+3103,Worcester,gb
+3104,Addlestone,gb
+3105,Gloucester,gb
+3106,Bridgend,gb
+3107,Bridgend County,gb
+3108,Runcorn,gb
+3109,Newcastle Upon Tyne,gb
+3110,Westhill,gb
+3111,Hythe,gb
+3112,Eye,gb
+3113,Warrington,gb
+3114,Egham,gb
+3115,Clevedon,gb
+3116,Chorley,gb
+3117,Canterbury,gb
+3118,Chepstow,gb
+3119,Ramsgate,gb
+3120,Ashford,gb
+3121,Knockin,gb
+3122,Castle Cary,gb
+3123,Ludlow,gb
+3124,Enderby,gb
+3125,Chichester,gb
+3126,Shefford,gb
+3127,North East England,gb
+3128,Morley,gb
+3129,Wootton Bassett,gb
+3130,Loughborough,gb
+3131,Cannock,gb
+3132,Basildon,gb
+3133,Chippenham,gb
+3134,Havant,gb
+3135,Ripon,gb
+3136,Brentwood,gb
+3137,Skelmersdale,gb
+3138,Fareham,gb
+3139,Sutton Coldfield,gb
+3140,Stephenson County,us
+3141,Spotsylvania County,us
+3142,Prince William County,us
+3143,Fauquier County,us
+3144,Fredericksburg City,us
+3145,King George County,us
+3146,Caroline County,us
+3147,Stafford County,us
+3148,Colorado,us
+3149,Virginia Beach City,us
+3150,Saint Charles County,us
+3151,Ingham County,us
+3152,Alaska,us
+3153,Conejos County,us
+3154,"Washington, D.C.",us
+3155,Manhattan,us
+3156,Oklahoma County,us
+3157,Sacramento County,us
+3158,Honolulu,us
+3159,Pierce County,us
+3160,Essex County,us
+3161,Effingham County,us
+3162,Anne Arundel County,us
+3163,Indiana County,us
+3164,Cobb County,us
+3165,Broome County,us
+3166,Bristol County,us
+3167,Canyon County,us
+3168,New Castle County,us
+3169,Harrisonburg City,us
+3170,Plymouth County,us
+3171,James City County,us
+3172,Norfolk City,us
+3173,Kenosha County,us
+3174,Clarke County,us
+3175,Watauga County,us
+3176,Philadelphia County,us
+3177,Macomb County,us
+3178,Comanche County,us
+3179,Chesapeake City,us
+3180,Ada County,us
+3181,Butte County,us
+3182,Linn County,us
+3183,Coconino County,us
+3184,Nueces County,us
+3185,Calcasieu Parish,us
+3186,Kennebec County,us
+3187,Nevada,us
+3188,Walworth County,us
+3189,San Luis Obispo County,us
+3190,Lane County,us
+3191,Latah County,us
+3192,Caddo Parish,us
+3193,Hunt County,us
+3194,Faulkner County,us
+3195,Peoria County,us
+3196,Waller County,us
+3197,Hays County,us
+3198,Berrien County,us
+3199,Washoe County,us
+3200,Tuscaloosa County,us
+3201,Penobscot County,us
+3202,Knox County,us
+3203,Crawford County,us
+3204,Otero County,us
+3205,Bergen County,us
+3206,Stanislaus County,us
+3207,Durham County,us
+3208,Blount County,us
+3209,Rockdale County,us
+3210,Beaufort County,us
+3211,"D.C., US",us
+3212,Ellsworth County,us
+3213,Hughes County,us
+3214,Fayette County,us
+3215,Willacy County,us
+3216,Randolph County,us
+3217,Gulfport,us
+3218,Hampton City,us
+3219,Lapeer County,us
+3220,Onslow County,us
+3221,Whitley County,us
+3222,Hartford County,us
+3223,Sutter County,us
+3224,Newport County,us
+3225,Smith County,us
+3226,Leon County,us
+3227,Duval County,us
+3228,Raleigh County,us
+3229,Shasta County,us
+3230,California,us
+3231,Morris County,us
+3232,New York,us
+3233,Loudoun County,us
+3234,Limestone County,us
+3235,Denton County,us
+3236,Alexandria City,us
+3237,Texas,us
+3238,Maryland,us
+3239,Albany County,us
+3240,St. Mary's County,us
+3241,Waukesha County,us
+3242,Nacogdoches County,us
+3243,Chaves County,us
+3244,Passaic County,us
+3245,Lucas County,us
+3246,Muscogee County,us
+3247,Virginia,us
+3248,Humboldt County,us
+3249,Columbia County,us
+3250,East Baton Rouge Parish,us
+3251,New Hanover County,us
+3252,Racine County,us
+3253,Wyandotte County,us
+3254,Bibb County,us
+3255,Vigo County,us
+3256,Sarpy County,us
+3257,Kenton County,us
+3258,Merrimack County,us
+3259,Dunn County,us
+3260,Grand Forks County,us
+3261,Gallatin County,us
+3262,Sweetwater County,us
+3263,Cabell County,us
+3264,New York City,us
+3265,Brookings County,us
+3266,Kane County,us
+3267,Rutland County,us
+3268,Lowndes County,us
+3269,Lynchburg City,us
+3270,Maury County,us
+3271,Carson City,us
+3272,Thurston County,us
+3273,Santa Fe County,us
+3274,Laramie County,us
+3275,Ventura County,us
+3276,Harnett County,us
+3277,Whitfield County,us
+3278,Eau Claire County,us
