@@ -97,8 +97,8 @@ pip install -r requirements.txt
 1. Create a `.env` file in the project root with your Adzuna API credentials:
 
 ```env
-ADZUNA_APP_ID=your_app_id_here
-ADZUNA_API_KEY=your_api_key_here
+APP_ID=your_app_id_here
+API_KEY=your_api_key_here
 ```
 ### Step 3: Fetch Data from Adzuna API 
 ````
