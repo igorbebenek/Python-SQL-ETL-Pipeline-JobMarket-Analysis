@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 ```env
 APP_ID=your_app_id_here
-API_KEY=your_api_key_here
+APP_KEY=your_api_key_here
 ```
 ### Step 3: Fetch Data from Adzuna API 
 ````
