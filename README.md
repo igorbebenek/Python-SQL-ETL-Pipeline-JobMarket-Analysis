@@ -27,10 +27,11 @@ A robust data engineering project that automates the complete ETL (Extract, Tran
 ```text
 Job_Monitor/
 ├── data/
-│   ├── db_normalized/       # Exported CSVs for normalized schema (dim/fact)
-│   ├── processed/           # Cleaned and transformed datasets
-│   ├── raw/                 # Raw SQLite databases (flat tables)
-│   └── normalized_db_schema.sql  # SQL DDL script for the final database schema
+│   ├── sample_offers.csv    # Sample dataset for preview (tracked by Git)
+│   ├── normalized_db_schema.sql # SQL DDL script for the final database schema
+│   ├── db_normalized/       # (Local only) Exported CSVs for normalized schema
+│   ├── processed/           # (Local only) Cleaned and transformed datasets
+│   └── raw/                 # (Local only) Raw API JSON and flat SQLite databases
 ├── database/
 │   ├── db_config.py         # SQLAlchemy engine & session setup
 │   └── models.py            # SQL schema definitions (ORM models)
@@ -42,7 +43,7 @@ Job_Monitor/
 ├── Testing/
 │   ├── test_db_connection.py # Database integrity checks
 │   └── test_ingestion.py      # API data load validation
-├── .gitignore               # Files excluded from version control
+├── .gitignore               # Files excluded from version control (.db, .env, etc.)
 ├── api_client.py            # Adzuna API integration logic
 ├── README.md                # Project documentation and overview
 └── requirements.txt         # Project dependencies

@@ -1,8 +1,23 @@
+# environment files
 .env
 .venv/
 venv/
+
+# ide settings
 .idea/
-*.db
+.vscode/
+
+# python artifacts
 __pycache__/
-data/job_market.db
-data/job_market_final.db
+*.pyc
+
+# dastabase files
+*.db
+*.sqlite
+*.sqlite3
+
+#data directories
+data/db_normalized/
+data/processed/
+data/raw/
+
