@@ -152,7 +152,7 @@ CREATE TABLE fact_offers (
 ```
 ###
 ## 📊 Power BI Dashboard
-File: `dashboards/dashboard.pbix`
+File: `dashboards/Dashboard_Job_Market.pbix`
 
 ### Pages:
 - **Salary Transparency** — AVG/Median salary per country, filters by country and seniority level
