@@ -150,6 +150,32 @@ CREATE TABLE fact_offers (
             FOREIGN KEY(location_id) REFERENCES dim_locations(id)
         );;
 ```
+###
+## 📊 Power BI Dashboard
+File: `dashboards/dashboard.pbix`
+
+### Pages:
+- **Salary Transparency** — AVG/Median salary per country, filters by country and seniority level
+- **Top Companies** — company ranking by average salary, scatter chart (offer count vs salary)
+
+### Preview:
+
+**Salary Transparency**
+![Salary Transparency](dashboards/salary_transparency_preview.png)
+
+**Top Companies**
+![Top Companies](dashboards/top_companies_preview.png)
+
+### How to open:
+1. Download [Power BI Desktop](https://powerbi.microsoft.com)
+2. Open `dashboards/dashboard.pbix`
+3. Configure ODBC connection to `data/job_market_final.db` (see setup below)
+
+### ODBC Setup:
+1. Download [SQLite ODBC Driver](http://www.ch-werner.de/sqliteodbc/)
+2. Open `odbcad32` → User DSN → Add → SQLite3 ODBC Driver
+3. Set Database Name to the path of `job_market_final.db`
+4. Name the DSN `JobMarket`
 
 ### Testing 
 The `Testing/` directory contains unit tests to validate database connections and data ingestion processes. These tests ensure that the ETL pipeline functions correctly and that the database schema is properly enforced.
